@@ -19,6 +19,7 @@ Navigate to docker community edition to install the latest version of docker. We
     * create a docker file to setup out application and then
     * deploy to heroku....or something that does not require a login
     * https://daveceddia.com/create-react-app-express-backend/
+    * Docker + Nodejs => https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
     
 * Notes
     * Need to talk about windows later, git bash, linux subsystems might be helpful or maybe docker is enough
