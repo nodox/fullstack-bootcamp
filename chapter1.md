@@ -21,3 +21,4 @@ markup the page with a markup language, thats where HTML comes into play. **What
 The `div` is the most common element on the page and its used to divide the page. The division helps us markup the page differently based on what we want to achieve. 
 
 # What is CSS ?
+Markup is great but its so plain. What if we wanted to style the page with different colors so its not so plain? Or what if we wanted to style the actual markup elements, thats were CSS comes in. **What is CSS? Why called CSS?**. CSS is another language used to describe how HTML elements are displayed to end users however they are being viewed (mobile, desktop, paper or other media).
