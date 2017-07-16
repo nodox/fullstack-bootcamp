@@ -11,7 +11,7 @@ This commands lets us see what the calendar looks like for the year 1993. Instan
 
 # What is a web page?
 * Talk about the DOM and components of a web page
-
+A web page is a document prepared to be read by a web browser so its can display the content of the page on the web.
 
 
 # What is HTML?
