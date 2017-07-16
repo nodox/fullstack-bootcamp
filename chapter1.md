@@ -15,6 +15,9 @@ This commands lets us see what the calendar looks like for the year 1993. Instan
 
 
 # What is HTML?
+A website is made up of a page or formally known as a document. To put information a website you need to 
+markup the page with a markup language, thats where HTML comes into play. **What is html?** 
 
+The `div` is the most common element on the page and its used to divide the page. The division helps us markup the page differently based on what we want to achieve. 
 
 # What is CSS ?
