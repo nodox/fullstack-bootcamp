@@ -28,4 +28,8 @@ We've added the HTML elements and styled it with CSS. But our website looks real
 
 ...
 
-Now reload the page. Our webpage now has a live timer. Sweet! Keep reading to find out what else you can do with your new coding skills.
+Now reload the page. Our webpage now has a live timer. Sweet! There is so much you can do with javascript as a programming language. 
+
+
+# What is a programming language?
+HTML and CSS are light versions of programming language becuase they are so simple in their design. They server primarily as a presentation layer for the content you want to describe. Javascript is the first major programming language we are going to cover. We learning a new language we have to learn a few fundamental concepts once you learn these ideas you will be able to any programming language out there. The reasons is because these languages all revolve around talking with a computer what we say to the computer has to be that same with each language but how we say it can be written in many ways as long as the fundmanetals are there. 
