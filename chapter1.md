@@ -11,7 +11,7 @@ This commands lets us see what the calendar looks like for the year 1993. Instan
 
 # What is a web page?
 * Talk about the DOM and components of a web page
-A web page is a document prepared to be read by a web browser so its can display the content of the page on the web.
+A web page is a document prepared to be read by a web browser so it can display the content of the page on the web. 
 
 
 # What is HTML?
@@ -22,3 +22,6 @@ The `div` is the most common element on the page and its used to divide the page
 
 # What is CSS ?
 Markup is great but its so plain. What if we wanted to style the page with different colors so its not so plain? Or what if we wanted to style the actual markup elements, thats were CSS comes in. **What is CSS? Why called CSS?**. CSS is a design language used to describe how HTML elements are displayed to end users however they are being viewed (mobile, desktop, paper or other media).
+
+# What is Javascript?
+We've added the HTML elements and styled it with CSS. But our website looks real plain. I wonder if we can make it more lively. And the answer to that question is yes we can if we use Javascript. Javascript the the most popular web language today. Javascript is responsible for the way things interact on the web page. When you click a button, see a popup, or moving element then you are watching javascript code doing things to the web page. Let's make our page do something more interesting. We added the time we updated the website in markup but its been a while since, let's add a timer on our web page so we can see our page update live.
