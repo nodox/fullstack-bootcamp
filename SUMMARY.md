@@ -37,6 +37,14 @@
     * Loops
     * Libraries
     * Data Structures
+* A guide on OSS Licenses
+    * MIT
+    * BSD
+    * GNU
+        * 2.0 
+        * 3.0
+    * ISC
+    * Apache
     
         
         
