@@ -18,6 +18,18 @@
         * Terminal
         * Editor
         * Operating System
+    * Configuring a development environment
+        * Docker  
+    * Launching / Deploying our first application
+        * Github
+        * Heroku
+        * Tell you friends 
+    * ...
+    * ...
+    * Summary or TL;DR
+        * Here is a file you can run to perform all the steps for you. Take a moment to read it
+        
+        
 
 
 
