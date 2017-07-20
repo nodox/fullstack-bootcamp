@@ -17,6 +17,7 @@
     * Getting to know your tools (computer)
         * Operating System
         * Terminal
+        * Git
         * Editor
         * Docker  
     * Launching / Deploying our first application
