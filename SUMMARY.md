@@ -29,7 +29,9 @@
         * What does CSS mean?
     * Animate the page with Javascript
     * Summary or TL;DR
-        * Here is a file you can run to perform all the steps for you. Take a moment to read it
+        * Summary of steps or file to run all steps
+        * Or clone down application from github
+    
         
         
 
