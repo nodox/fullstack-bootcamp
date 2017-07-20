@@ -15,10 +15,9 @@
         * Website
 * Launching your first application
     * Getting to know your tools (computer)
+        * Operating System
         * Terminal
         * Editor
-        * Operating System
-    * Configuring a development environment
         * Docker  
     * Launching / Deploying our first application
         * Github
@@ -28,9 +27,15 @@
     * Style the Page with CSS
         * What does CSS mean?
     * Animate the page with Javascript
+        * Maybe Move elsewhere ?
     * Summary or TL;DR
         * Summary of steps or file to run all steps
         * Or clone down application from github
+* Programming Basics
+    * Variables
+    * Loops
+    * Libraries
+    * Data Structures
     
         
         
