@@ -45,7 +45,6 @@
         * 3.0
     * ISC
     * Apache
-    
 * How to read documentation
     * Could be its own things or part of a building your first project for a client exercise.
     
