@@ -1,10 +1,4 @@
 # Table of Contents
-
-* Notes
-    * Word count goal: 30k
-    * 30k + graphics ~= 300 pages
-    
-
 1. Preface
     * Who this book is written for
     * How to get the most of this book
