@@ -9,7 +9,7 @@
     * Slack
     * Twitter
     * Website
-* Launching your first application
+* Chapter 1: Launching your first application
   * Getting to know your tools \(computer\)
     * Operating System
     * Terminal
