@@ -15,10 +15,9 @@ We will briefly explore advanced concepts in each chapter as a way to give you i
 
 
 
-
-
 ## Conventions used in this book
 *Develop this section later.*
+
 
 
 ## How to support this book and the community of learners
