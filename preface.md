@@ -1,8 +1,6 @@
 # Preface
 The purpose of this book is to teach you web development with in such a way that you will the principles of software engineering. By the end of this book you will be able to build a custom web application using the proper tools. You will be able to dismantle complex application into their most basic fundamental unit and then build them yourself. You will develop a vocabulary that will demonstrate the knowledge you have as a software engineer. 
 
-
-
 ## Who this book is written for
 *Full stack bookcamp* is designed for anyone with little or no programming experience. If you've ever wondered *What is coding? How do you code?* then this book is for you. In this book we will explore the fundamentals of programming as put those theories into practice as soon as we encounter them. 
 
