@@ -7,7 +7,10 @@
 The purpose of this book is to teach you web development with in such a way that you will the principles of software engineering. By the end of this book you will be able to build a custom web application using the proper tools. You will be able to dismantle complex application into their most basic fundamental unit and then build them yourself. You will develop a vocabulary that will demonstrate the knowledge you have as a software engineer. 
 
 ## How to get the most of this book
-Each chapter 
+Each chapter is focused on creating a project we can show the world. As we create each project we will explore programming fundamentals. To get maximum benefit from this book make sure to physically type all the programming steps. Why? Doing so will help you commit the most important commands to memory. Typing out these commands will also allow you to see how much you understand what is in front of you because many of these commands require a specific order of execution. 
+
+We will briefly explore advanced concepts in each chapter as a way to give you insight on how deep the rabbit hole can go. When we touch upon this concept there will be external links you may chose to explore are a later time. Those links will continue to enhance your understand of software engineering.
+
 
 
 
