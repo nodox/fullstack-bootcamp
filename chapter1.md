@@ -12,8 +12,8 @@ A computer is made of many parts. All these parts are parts can fall into one of
 
 Software is a set of program files that contain the logic or set of instructions, that are to be run by the user (either you or the copmuter itself). The instructions are passed down to the physical hardware where the command is executed to give a result. 
 
-### What is a terminal?
-The terminal is an application that allows us to interact with the computer by typing commands with our keyboard. When we type those commands and press enter, the computer works to complete the command. Every thing we do with a mouse can be done using terminal commands. The terminal however is sometimes better than using a mouse or what we see in front of use because it gives us more control over the computer. 
+### What is the command line?
+The command line is an application that allows us to interact with the computer by typing commands with our keyboard. When we type those commands and press enter, the computer works to complete the command. Every thing we do with a mouse can be done using terminal commands. The terminal however is sometimes better than using a mouse or what we see in front of use because it gives us more control over the computer. On Mac the command line application is called Terminal.
 
 You can think of the terminal as driving an stick shift car. When driving stick you get more control of the car but you need to understand how the car works to make sure you are shifting correctly not breaking a gear in your car. The same concept applies with the terminal. With more control means we can issue better commands but we need to make sure we don't issue commands that can harm the computer. 
 
@@ -24,6 +24,15 @@ $ cal 1993
 ```
 
 This commands lets us see what the calendar looks like for the year 1993. Instantly we can find the day we were born. Even if you don't learn how to code professionally learning even how to use the terminal for very simple things can make you extremely productive in your daily life. **Note: add more content about terminal commands, other fun exercises,**
+
+
+
+
+
+
+
+
+
 
 
 ## What is a web page?
