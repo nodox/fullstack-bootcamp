@@ -35,11 +35,14 @@ Since every computer has its own personality and different set of settings then 
 #### Download Docker
 Docker is a publicly available software tool. Navigate to docker website, find the community edition and install the latest version of docker. [Follow this link to the downloads page.](https://www.docker.com/community-edition) Choose the package that fits our computer. Once installed start up docker. You should see the small whale icon in your tool bar.
 
+#### Get a sample application
+Now that we have Docker running we need an application to develop. Instead of starting from scratch we are going to extend a simple application prebuilt for deployment.
 
 
 
 
 
+-----------
 
 
 
