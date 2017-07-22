@@ -43,9 +43,18 @@ Github is a web application used to store our applications code on the cloud. If
 
 #### Get a sample application
 Open a new terminal session and type 
-```$ cd ~/Desktop && git clone https://github.com/nodox/fsbc-chapter1.git```
-This command says to move our current directory to Desktop and clone and application. Using Finder you You should see a folder titled `fsbc-chapter1` on the Desktop of you computer. We are going to extend this simple prebuilt application and later deploy it. Start the docker process  if its not on already and run the following command. ```$ docker build -t fsbc/demo0 .```
 
+```$ cd ~/Desktop && git clone https://github.com/nodox/fsbc-chapter1.git```
+
+This command says to move our current directory to Desktop and clone and application. Using Finder you You should see a folder titled `fsbc-chapter1` on the Desktop of you computer. We are going to extend this simple prebuilt application and later deploy it. Start the docker process  if its not on already and run the following command.
+ 
+```$ docker build -t fsbc/demo0 .```
+
+Once the build is complete run
+
+```$ docker run -p 3000:3000 fscb/demo0 ```
+
+Open your favorite web browser and visit `localhost:3000`. You will see a white page with the words 'Hello World!'. You've just created your first application!
 
 
 ## What is a web page?
