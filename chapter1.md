@@ -54,7 +54,7 @@ Once the build is complete run
 
 ```$ docker run -p 3000:3000 fscb/demo0 ```
 
-Open your favorite web browser and visit `localhost:3000`. You will see a white page with the words 'Hello World!'. You've just created your first application! Its working on our local computer but people on the web can't see it yet. We need to find a server to host our app or we can find a hosting provider to host our application. Since we don't know how to configure servers yet we are better off using a hosting provider / service. `Heroku` is a great hosting service for web applications. [Create a free account using their website](https://www.heroku.com/)
+Open your favorite web browser and visit `localhost:3000`. You will see a white page with the words 'Hello World!'. You've just created your first application! Its working on our local computer but people on the web can't see it yet. We need to find a server to host our app or we can find a hosting provider to host our application. Since we don't know how to configure servers yet we are better off using a hosting provider / service. Heroku is a great hosting service for web applications. [Create a free account using their website](https://www.heroku.com/)
 
 
 ## What is a web page?
