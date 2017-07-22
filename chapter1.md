@@ -23,8 +23,20 @@ The terminal has many tools that are not normally useable when we use the comput
 $ cal 1993
 ```
 
-This commands lets us see what the calendar looks like for the year 1993. Instantly we can find the day we were born. Even if you don't learn how to code professionally learning even how to use the terminal for very simple things can make you extremely productive in your daily life. **Note: add more content about terminal commands, other fun exercises,**
+This commands lets us see what the calendar looks like for the year 1993. Instantly we can find the day we were born. Even if you don't learn how to code professionally learning even how to use the terminal for very simple things can make you extremely productive in your daily life. **Note: add more content about terminal commands, other fun exercises.**
 
+### Setting up our development environment
+To start coding we are going to need a development environment. The purpose of a development environment is to develop code. There are other environments that are used to test applications or see how they will behave once they are deployed live, these are commonly called test and production.
+
+T e need a few tools to setup what we call a development environment 
+* Notes:
+    * Previous chapter will need to go over what is coding. 
+    * Explain the purpose, why, how, and impacts and technology trends
+
+
+
+## Download Docker
+Navigate to docker community edition to install the latest version of docker. We will take at look what docker after we create our first app. [Follow this link to the downloads page.](https://www.docker.com/community-edition) Choose the package that fits our computer. Once installed start up docker.
 
 
 
