@@ -43,19 +43,10 @@ Github is a web application used to store our applications code on the cloud. If
 
 #### Get a sample application
 Open a new terminal session and type 
+```cd ~/Desktop && git clone https://github.com/nodox/fsbc-chapter1.git``` 
 
-`git clone https://github.com/nodox/fsbc-chapter1.git`
+Using Finder you You should see a folder titled `fsbc-chapter1` on the Desktop of you computer. We are going to extend this simple prebuilt application and later deploy it. Now that we have Docker running we need an application to develop. Instead of starting fwerrom scratch
 
-
-Now that we have Docker running we need an application to develop. Instead of starting from scratch we are going to extend a simple application prebuilt for deployment. 
-
-
-
-
-
-
-
------------
 
 
 
