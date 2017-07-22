@@ -32,8 +32,8 @@ Our development environment will be created using a tool called Docker. Docker i
 
 Since every computer has its own personality and different set of settings then we can avoid the headache of having to errors in our application caused by the different settings on both computers. As you begin to create applications you will often run into a scenario where the application runs fine on your computer but not on the server. This can be avoided by using Docker.
 
-## Download Docker
-Navigate to docker community edition to install the latest version of docker. We will take at look what docker after we create our first app. [Follow this link to the downloads page.](https://www.docker.com/community-edition) Choose the package that fits our computer. Once installed start up docker.
+#### Download Docker
+Docker is a publicly available software tool. Navigate to docker website, find the community edition and install the latest version of docker. [Follow this link to the downloads page.](https://www.docker.com/community-edition) Choose the package that fits our computer. Once installed start up docker. You should see the small whale icon in your tool bar.
 
 
 
