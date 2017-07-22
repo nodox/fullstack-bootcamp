@@ -48,8 +48,6 @@ Open a new terminal session and type
 Using Finder you You should see a folder titled `fsbc-chapter1` on the Desktop of you computer. We are going to extend this simple prebuilt application and later deploy it. Now that we have Docker running we need an application to develop.
 
 
-
-
 ## What is a web page?
 * Talk about the DOM and components of a web page
 A web page is a document prepared to be read by a web browser so it can display the content of the page on the web. 
