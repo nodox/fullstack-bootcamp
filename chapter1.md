@@ -28,12 +28,7 @@ This commands lets us see what the calendar looks like for the year 1993. Instan
 ### Setting up our development environment
 To start coding we are going to need a development environment. The purpose of a development environment is to develop code. There are other environments that are used to test applications or see how they will behave once they are deployed live, these are commonly called test and production.
 
-T e need a few tools to setup what we call a development environment 
-* Notes:
-    * Previous chapter will need to go over what is coding. 
-    * Explain the purpose, why, how, and impacts and technology trends
-
-
+Our development environment will be created using a tool called Docker. Docker is a software tool that allows us to container our application in an operating environmnet that is different from our personal computer. Why do we want to do this? When you finally deploy an application you will need to deploy it to a server. The server is responsible for _serving_ your application to anybody on the web that visits the URL of that app. These servers also have there own opertation systems and they primarily use different variations of Linux.
 
 ## Download Docker
 Navigate to docker community edition to install the latest version of docker. We will take at look what docker after we create our first app. [Follow this link to the downloads page.](https://www.docker.com/community-edition) Choose the package that fits our computer. Once installed start up docker.
