@@ -38,9 +38,15 @@ Docker is a publicly available software tool. Navigate to docker website, find t
 #### Github and Git
 Github is a web application used to store our applications code on the cloud. If the computer we use to develop becomes unuseable and needs to be replaced we can rest easy knowing our application files are safetly stored in another location. Github also gives us the power of version control. Version control is a way to visualize the different states of your applications. To create different application states we use a tool called Git. When we finish fixing a bug or creating a new application features, we use Git to create a snapshot of the current application state. Once the snapshot is created the snapshot is pushed to Github where we can easily view the different versions of our application. This would be the equivalent to writing a long paper and saving your work along the way. Once the work is in a state that you are satisfied with you create a backup and push the document to a remote place like Google drive, iCloud or Dropbox.
 
+Create an account with Github (or Bitbucket since its free). We will use our account to get a copy of the sample application we will be deploying for our friends to see.
+
+
+
 
 #### Get a sample application
-Now that we have Docker running we need an application to develop. Instead of starting from scratch we are going to extend a simple application prebuilt for deployment. 
+Now that we have Docker running we need an application to develop. 
+
+Instead of starting from scratch we are going to extend a simple application prebuilt for deployment. 
 
 
 
