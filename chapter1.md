@@ -23,7 +23,7 @@ The terminal has many tools that are not normally useable when we use the comput
 $ cal 1993
 ```
 
-This commands lets us see what the calendar looks like for the year 1993. Instantly we can find the day we were born. Even if you don't learn how to code professionally learning even how to use the terminal for very simple things can make you extremely productive in your daily life. **Note: add more content about terminal commands, other fun exercises.**
+This commands lets us see what the calendar looks like for the year 1993. Instantly we can find the day we were born. Even if you don't learn how to code professionally learning even how to use the terminal for very simple things can make you extremely productive in your daily life. **Note: add more content about terminal commands, other fun exercises.** Install terminal or a command line equivalent onto your computer. This especially applies to Windows users, I recommend you use Gitbash or the linus subsystem if you are running windows 10.
 
 ### Setting up our development environment
 To start coding we are going to need a development environment. The purpose of a development environment is to develop code. There are other environments that are used to test applications or see how they will behave once they are deployed live, these are commonly called test and production.
@@ -38,15 +38,16 @@ Docker is a publicly available software tool. Navigate to docker website, find t
 #### Github and Git
 Github is a web application used to store our applications code on the cloud. If the computer we use to develop becomes unuseable and needs to be replaced we can rest easy knowing our application files are safetly stored in another location. Github also gives us the power of version control. Version control is a way to visualize the different states of your applications. To create different application states we use a tool called Git. When we finish fixing a bug or creating a new application features, we use Git to create a snapshot of the current application state. Once the snapshot is created the snapshot is pushed to Github where we can easily view the different versions of our application. This would be the equivalent to writing a long paper and saving your work along the way. Once the work is in a state that you are satisfied with you create a backup and push the document to a remote place like Google drive, iCloud or Dropbox.
 
-*Create an account with Github* (or Bitbucket since its free). We will use our account to get a copy of the sample application we will be deploying for our friends to see.
-
-
+*Create an account with Github* (or Bitbucket since its free). We will use our account to get a copy of the sample application we will be deploying for our friends to see. [And install Git on your computer](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 
 #### Get a sample application
-Now that we have Docker running we need an application to develop. 
+Open a new terminal session and type 
 
-Instead of starting from scratch we are going to extend a simple application prebuilt for deployment. 
+`git clone https://github.com/nodox/fsbc-chapter1.git`
+
+
+Now that we have Docker running we need an application to develop. Instead of starting from scratch we are going to extend a simple application prebuilt for deployment. 
 
 
 
