@@ -8,7 +8,7 @@ Our goal for this chapter is to deploy a simple application that has the words *
 To start you're journey as a coder or programmer you are going to need the right tools. There tools will allow you to run programs that perform the tasks you want completed. The first and most important tool is your computer.
 
 ### The computer and operating system
-A computer is made of many parts. All these parts are parts can fall into one of two categories: hardware or software. The hardware of the computer are the physical parts that make the computer do things. Some notable parts are called the CPU, Memory also known as RAM, motherboard, and display (what you look into when you use the computer.
+A computer is made of many parts. All these parts are parts can fall into one of two categories: hardware or software. The hardware of the computer are the physical parts that make the computer do things. Some notable parts are called the CPU, Memory also known as RAM, motherboard, and display, what you look into when you use the computer.
 
 ### What is a terminal?
 The terminal is an application that allows us to interact with the computer by typing commands with our keyboard. When we type those commands and press enter, the computer works to complete the command. Every thing we do with a mouse can be done using terminal commands. The terminal however is sometimes better than using a mouse or what we see in front of use because it gives us more control over the computer. 
