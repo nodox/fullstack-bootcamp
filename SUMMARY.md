@@ -10,9 +10,9 @@
     * Twitter
     * Website
 * Chapter 1: Launching your first application
-  * Getting to know your tools \(computer\)
-    * Operating System
-    * Terminal
+  * [Getting to know your tools \(computer\)](getting-to-know-your-tools-computer.md)
+    * [Operating System](operating-system.md)
+    * [Terminal](terminal.md)
     * Git
     * Editor
     * Docker  
