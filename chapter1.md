@@ -82,6 +82,8 @@ The name of your new application will be listed as `https://NAME.herokuapp.com` 
 ```
 $ git push heroku master
 ```
+Now open your browser and visit `https://NAME.herokuapp.com` and you will see the message *Hello World* in your browser.
+Anyone with an internet connection can now see your app when they visit your URL. Congratulations you've deployed your first application!
 
 
 ## What is a web page?
