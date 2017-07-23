@@ -60,8 +60,7 @@ Open your favorite web browser and visit `localhost:3000`. You will see a white 
 
 Heroku is a great hosting service for web applications of different types. [Create a free account using their website](https://www.heroku.com/). Next install the command line interface (CLI) toolbelt for Heroku found [here](https://devcenter.heroku.com/articles/heroku-cli). This toolbelt will allow use to push our application from the command line to Heroku for hosting.
 
-To use Heroku download the toolbelt
-
+Open a terminal session, and `cd` to the root directory of you project.
 
 ## What is a web page?
 * Talk about the DOM and components of a web page
