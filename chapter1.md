@@ -44,17 +44,23 @@ To create different application states we use a tool called Git. When we finish 
 
 
 #### Get a sample application
-Open a new terminal session and type 
+Open a new terminal session, `cd` to the desktop directory and type
 
-```$ cd ~/Desktop && git clone https://github.com/nodox/fsbc-chapter1.git```
+```
+$ git clone https://github.com/nodox/fsbc-chapter1.git
+```
 
 This command says to move our current directory to Desktop and clone and application. Using Finder you You should see a folder titled `fsbc-chapter1` on the Desktop of you computer. We are going to extend this simple prebuilt application and later deploy it. Start the docker process  if its not on already and run the following command.
  
-```$ docker build -t fsbc/chapter1 .```
+```
+$ docker build -t fsbc/chapter1 .
+```
 
 Once the build is complete run
 
-```$ docker run -p 3005:3005 fsbc/chapter1 ```
+```
+$ docker run -p 3005:3005 fsbc/chapter1 
+```
 
 Open your favorite web browser and visit `localhost:3005`. You will see a white page with the words 'Hello World!'. You've just created your first application! Press `CTRL + C` on your keyboard to end the local server.
 
@@ -62,7 +68,11 @@ Its working on our local computer but people on the web can't see it yet. We nee
 
 Heroku is a great hosting service for web applications of different types. [Create a free account using their website](https://www.heroku.com/). Next install the command line interface (CLI) toolbelt for Heroku found [here](https://devcenter.heroku.com/articles/heroku-cli). This toolbelt will allow us to use the command line to push our application from our local computer to Heroku for hosting.
 
-Open a terminal session, and `cd` to the root directory of you project. Use ```$ heroku login``` to login into your heroku account from the terminal.
+Open a terminal session, and `cd` to the root directory of you project. Use 
+```
+$ heroku login
+``` 
+to login into your heroku account from the terminal.
 
 
 ## What is a web page?
