@@ -62,7 +62,8 @@ Its working on our local computer but people on the web can't see it yet. We nee
 
 Heroku is a great hosting service for web applications of different types. [Create a free account using their website](https://www.heroku.com/). Next install the command line interface (CLI) toolbelt for Heroku found [here](https://devcenter.heroku.com/articles/heroku-cli). This toolbelt will allow us to use the command line to push our application from our local computer to Heroku for hosting.
 
-Open a terminal session, and `cd` to the root directory of you project.
+Open a terminal session, and `cd` to the root directory of you project. Use ```$ heroku login```
+
 
 ## What is a web page?
 * Talk about the DOM and components of a web page
