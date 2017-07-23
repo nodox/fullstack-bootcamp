@@ -54,7 +54,7 @@ This command says to move our current directory to Desktop and clone and applica
 
 Once the build is complete run
 
-```$ docker run -p 3000:3000 fsbc/chapter1 ```
+```$ docker run -p 3005:3005 fsbc/chapter1 ```
 
 Open your favorite web browser and visit `localhost:3000`. You will see a white page with the words 'Hello World!'. You've just created your first application! Its working on our local computer but people on the web can't see it yet. We need to find a server to host our app or we can find a hosting provider to host our application. Since we don't know how to configure servers yet we are better off using a hosting provider / service. 
 
