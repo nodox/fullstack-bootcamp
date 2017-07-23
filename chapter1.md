@@ -85,6 +85,8 @@ $ git push heroku master
 Now open your browser and visit `https://NAME.herokuapp.com` and you will see the message *Hello World* in your browser.
 Anyone with an internet connection can now see your app when they visit your URL. Congratulations you've deployed your first application!
 
+In the next chapter we are going to learn HTML and CSS to add more features to our simple application.
+
 
 ## What is a web page?
 * Talk about the DOM and components of a web page
