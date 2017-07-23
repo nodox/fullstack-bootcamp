@@ -88,6 +88,8 @@ Anyone with an internet connection can now see your app when they visit your URL
 In the next chapter we are going to learn HTML and CSS to add more features to our simple application.
 
 
+
+
 ## What is a web page?
 * Talk about the DOM and components of a web page
 A web page is a document prepared to be read by a web browser so it can display the content of the page on the web. 
