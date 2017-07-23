@@ -72,7 +72,12 @@ Open a terminal session, and `cd` to the root directory of you project. Use
 ```
 $ heroku login
 ``` 
-to login into your heroku account from the terminal.
+to login into your heroku account from the terminal. Now create a new heroku application.
+
+```
+$ heroku create
+```
+The name of your new application will be listed as `https://NAME.herokuapp.com` in the terminal.
 
 
 ## What is a web page?
