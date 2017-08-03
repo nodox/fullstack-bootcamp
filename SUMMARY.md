@@ -6,8 +6,6 @@
  * How to use this book
  * Conventions
  * Where our community is located 
-
-
 * Chapter 1: A live application 
 
 
