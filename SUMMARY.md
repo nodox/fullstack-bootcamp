@@ -1,4 +1,4 @@
-# Summary
+# Table of Contents
 
 * [Introduction](README.md)
   * Requirements
@@ -7,7 +7,7 @@
   * Conventions
   * Where our community is located 
   
-  
+
   
 * [Preface](preface.md)
   * Who this book is written for
