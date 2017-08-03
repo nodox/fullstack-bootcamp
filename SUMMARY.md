@@ -1,6 +1,6 @@
 # Table of Contents
 
-[Book 1](...)
+[Book 1](README.md)
 
 * [Introduction](introduction.md)
   * [Requirements](requirements.md)
