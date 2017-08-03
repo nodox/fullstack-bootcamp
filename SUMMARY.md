@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](introduction.md)
+* [Introduction](README.md)
   * [Requirements](requirements.md)
   * [A Teaching Philosophy](a-teaching-philosophy.md)
   * How to use this book
