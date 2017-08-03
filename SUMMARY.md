@@ -7,6 +7,3 @@
 * Conventions
 * Where our community is located 
 
-* Hello
-    * world
-    
