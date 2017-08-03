@@ -1,6 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
+  * Requirements
+  * A Teaching Philosophy
+  * How to use this book
+  * Conventions
+  * Where our community is located 
+  
+  
+  
 * [Preface](preface.md)
   * Who this book is written for
   * How to get the most of this book
@@ -9,7 +17,7 @@
     * Slack
     * Twitter
     * Website
-* Chapter 1: Launching your first application
+* Chapter 1: A live web application
   * Getting to know your tools
     * [Operating System](operating-system.md)
     * [Terminal](terminal.md)
@@ -43,4 +51,6 @@
   * Apache
 * How to read documentation
   * Could be its own things or part of a building your first project for a client exercise.
+
+
 
