@@ -7,6 +7,7 @@ Our community can be found in the following places
     * Slack 
     * Facebook
     * Core website
+    
 All the code samples and projects will be publicly available on github for you to explore, clone, and modify. If you get stuck please post here so together we can create an archive of solved issues. I hope you enjoy reading this book as much as I loved writing this book with the feedback of everyone involved in the community. 
 
 
