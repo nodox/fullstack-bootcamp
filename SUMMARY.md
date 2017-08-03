@@ -1,7 +1,7 @@
 # Summary
 
 * [1 Introduction](introduction.md)
- * [Requirements](requirements.md)
+ * [1.1 Requirements](requirements.md)
  * [A Teaching Philosophy](a-teaching-philosophy.md)
  * How to use this book
  * Conventions
