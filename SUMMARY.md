@@ -7,6 +7,6 @@
  * Conventions
  * Where our community is located 
  
- * [Yo](introduction.md)
+* [Yo](introduction.md)
 
 
