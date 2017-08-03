@@ -1,14 +1,14 @@
-# Table of Contents
+# Summary
 
 * [Introduction](README.md)
-  * Requirements
-  * A Teaching Philosophy
+  * [Requirements](requirements.md)
+  * [A Teaching Philosophy](a-teaching-philosophy.md)
   * How to use this book
   * Conventions
   * Where our community is located 
-  
 
-  
+---
+
 * [Preface](preface.md)
   * Who this book is written for
   * How to get the most of this book
@@ -51,6 +51,4 @@
   * Apache
 * How to read documentation
   * Could be its own things or part of a building your first project for a client exercise.
-
-
 
