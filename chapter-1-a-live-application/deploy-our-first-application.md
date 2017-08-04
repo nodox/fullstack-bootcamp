@@ -1,5 +1,6 @@
 # Deploy our first application
 
+
 ### Setting up our development environment
 To start coding we are going to need a development environment. The purpose of a development environment is to develop code. There are other environments that are used to test applications or see how they will behave once they are deployed live, these are commonly called test and production.
 
