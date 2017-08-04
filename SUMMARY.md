@@ -7,5 +7,5 @@
   * [Conventions](conventions.md)
   * [Where our community is located ](where-our-community-is-located.md)
 * [Chapter 1: A live application ](chapter-1-a-live-application.md)
-  * Fundamentals
+  * [Fundamentals](chapter-1-a-live-application/fundamentals.md)
 
