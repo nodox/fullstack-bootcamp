@@ -1,2 +1,2 @@
-# Requirements / Who this book is written for
+# Requirements
 This book is designed for those with no programming experience. If you've ever wondered *What is coding? How do you code?* then this book is for you. In this book we will explore the fundamentals of programming and put those theories into practice.
