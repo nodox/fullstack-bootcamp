@@ -41,4 +41,7 @@ Our community can be found in the following places
 All the code samples and projects will be publicly available on github for you to explore, clone, and modify. If you get stuck please post here so together we can create an archive of solved issues. I hope you enjoy reading this book as much as I loved writing this book with the feedback of everyone involved in the community. 
 
 
+Note: This book is a work-in-progress. Please give feedback on your experience using this [survey link](https://www.surveymonkey.com/r/JY27M3J). Any feedback you give will be reviewed to ensure we create a wonder reading experience for you. Thank you!
+
+- Steven
 
