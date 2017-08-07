@@ -43,7 +43,7 @@ All the code samples and projects will be publicly available on github for you t
 
 ***
 
-**This book is a work-in-progress.**
+**Disclaimer: This book is a work-in-progress.**
 
 **Please give feedback on your experience using this [survey link](https://www.surveymonkey.com/r/JY27M3J). Any feedback helps make a better book for you. Thank you!**
 
