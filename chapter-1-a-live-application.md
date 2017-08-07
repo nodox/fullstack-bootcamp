@@ -51,7 +51,7 @@ Create an account with Github (or Bitbucket since its free). We will use our acc
 Open a new terminal session, change to the desktop directory.
 
 ```
-$ cd ~/Desktop
+$ cd
 $ git clone https://github.com/nodox/fsbc-chapter1.git
 ```
 
