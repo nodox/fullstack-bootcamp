@@ -18,7 +18,7 @@ If you get stuck then jump over to the community section and post in one of the 
 
 We will explore advanced concepts in each chapter as a way to give you insight on how deep the rabbit hole can go. When we touch upon this concept there will be external links you may chose to explore at a later time. Each link will continue to enhance your understanding of software engineering.
 
-# Conventions
+## Conventions
 
 As you work through the book you will see these code blocks.
 
