@@ -55,8 +55,10 @@ $ cd
 $ git clone https://github.com/nodox/fsbc-chapter1.git
 ```
 
-This command says to move our current directory to the lowest level and clone and application. Using Finder you should see a folder titled `fsbc-chapter1` on the root level of you computer. We are going to extend this simple prebuilt application and later deploy it. Start the docker process if its not on already and run the following command.
+This command says to move our current directory to the lowest level and clone and application. Using Finder you should see a folder titled `fsbc-chapter1` on the root level of you computer. We are going to extend this simple prebuilt application and later deploy it. Change directories to be at the root of your application folder and build the operating system image with docker. Be sure to start the docker process if its not started.
+
 ```
+$ cd fsbc-chapter1
 $ docker build -t fsbc/chapter1 .
 ```
 
