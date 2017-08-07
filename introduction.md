@@ -36,12 +36,10 @@ Learning with others while programming is essential to becoming a better program
    
  
 Email me at steven@fsbc.com if you have any issues, feedback or want to say hello. Email your projects and we'll feature it in our mailing list on everything thats going on in the programming world. As a beginner this mailing list will be focused on turning you to all the  development communities around the web so you can know where to look whenever you are searching for anything related to we development.
+
+## The material
  
-All the code samples and projects will be publicly available on github for you to explore, clone, and modify. If you get stuck please post here so together we can create an archive of solved issues. I hope you enjoy reading this book as much as I loved writing this book with the feedback of everyone involved in the community. 
-
-First and foremost thank for you supporting the creation of this book. With your help we can continue the mission of making software development a fun and accessible skill for everyone. When you succeed you'll tell everyone around one and hopefully you pay it forward by recogning this book as a starting point for building the foundation of your software engineering and web development. 
-
-
+All the code samples and projects will be publicly available on github for you to explore, clone, and modify. If you get stuck please post in the community groups so we can create an archive of solved issues. I hope you enjoy reading this book as much as I loved writing it! 
 
 ***
 
