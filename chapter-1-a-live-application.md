@@ -16,7 +16,7 @@ Software is a set of program files that contain the logic or set of instructions
 ### What is the command line?
 The command line, also know as the terminal, is an application that allows us to interact with the computer by typing commands with our keyboard. When we type those commands and press enter, the computer works to complete the command. Every thing we do with a mouse can be done using commands. The terminal however is sometimes better than using a mouse because it gives us more control over the computer.
 
-You can think of the terminal as driving an stick shift car. When driving stick you get more control of the car but you need to understand how the car works to make sure you are shifting correctly not breaking a gear in your car. The same concept applies with the terminal. With more control means we can issue better commands but we need to make sure we don't issue commands that can harm the computer. 
+You can think of the terminal as driving a stick shift car. When driving stick you get more control of the car but you need to understand how the car works to make sure you are shifting correctly not breaking a gear in your car. The same concept applies with the terminal. With more control means we can issue better commands but we need to make sure we don't issue commands that can harm the computer. 
 
 The terminal has many tools that are not normally useable when we use the computer with our mouse. Here is a fun exercise, do you remember what day of the week you were born? If you do you have great memory! If you are like the rest of us you might not remember however with the terminal you can find the answer in seconds. Open up your terminal and type
 
