@@ -29,7 +29,7 @@ This commands lets us see what the calendar looks like for the year `1993`. Inst
 Install terminal or a command line equivalent onto your computer. For PC/Windows users I recommend you use Gitbash or the linus subsystem if you are running windows 10.
 
 ## Deploy our first application
-To start coding we are going to need a development environment. The purpose of a development environment is to develop code. There are other environments that are used to test applications or see how they will behave once they are deployed live, these are commonly called test and production.
+To start coding we are going to need a development environment. The purpose of a development environment is to develop programs with code. There are other environments that are used to test applications or see how they will behave once they are deployed live, these are commonly called test and production.
 
 ### Setting up our development environment
 Our development environment will be created using a tool called Docker. Docker is a software tool that allows us to container our application in an operating environmnet that is different from our personal computer. Why do we want to do this? When you finally deploy an application you will need to deploy it to a server. The server is responsible for _serving_ your application to anybody on the web that visits the URL of that app. These servers also have there own opertation systems and they primarily use different variations of Linux. To avoid nasty errors because our personal computer environment is not the same, we try to make our personal environment identical to the server environment. 
