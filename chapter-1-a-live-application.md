@@ -37,7 +37,7 @@ Our development environment will be created using a tool called Docker. Docker i
 Since every computer has its own personality and different set of settings then we can avoid the headache of having to fix errors in our application caused by the different settings on both computers. As you begin to create applications you will often run into a scenario where the application runs fine on your computer but not on the server, Docker solves that problem.
 
 ### Download Docker
-Docker is a publicly available. Navigate to the docker website, find the community edition and install the latest version of docker. [Follow this link to the downloads page.](https://www.docker.com/community-edition) Choose the package that fits your computer. Once installed start up docker. You should see the small whale icon in your tool bar.
+Docker is a publicly available. Navigate to the docker website, find the community edition and install the latest version of docker. [Follow this link to the downloads page.](https://www.docker.com/community-edition) Choose the package that fits your computer. Run the installation program and start up docker. You should see the small whale icon in your tool bar.
 
 ### Github and Git
 Github is a web application used to store our applications code on the cloud. If the computer we use to develop becomes unuseable and needs to be replaced we can rest easy knowing our application files are safetly stored in another location. Github also gives us the power of version control. Version control is a way to visualize the different states of your applications.
