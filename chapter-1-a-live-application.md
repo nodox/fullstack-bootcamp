@@ -48,7 +48,7 @@ Create an account with Github (or Bitbucket since its free). We will use our acc
 
 
 #### Get a sample application
-Open a new terminal session, change to the desktop directory.
+Open a new terminal session, change to the base directory.
 
 ```
 $ cd
