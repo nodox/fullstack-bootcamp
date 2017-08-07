@@ -6,7 +6,7 @@ Our goal for this chapter is to deploy a simple application that has the words *
 
 These programs are found all over the computer. When you are opening files, creating folders, downloading ebooks or doing anything with our computer we are coding. However we aren't considered coders because we did not write how these programs should behave when they are opened. We interact with the code written by someone else, and the program is responding to all the actions we are performing on the computer. 
 
-## The computer and operating system
+### The computer and operating system
 To start your journey as a programmer you are going to need the right tools. These tools will allow you to run programs that perform the tasks you want completed. The first and most important tool is your computer.
 
 A computer is made of many parts. All these parts fall into one of two categories: hardware or software. The hardware of the computer are the physical parts that make the computer do things. Some notable parts are called the CPU, Memory also known as RAM, motherboard, and display, what you look into when you use the computer. At the most basic level, a computer operates by reading a series of 0's and 1's and then flipping switches on the computer to create certain results based on the binary information the program provided. These pieces work to form the basic building blocks of a modern computer.
