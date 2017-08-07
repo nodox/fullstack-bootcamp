@@ -95,7 +95,7 @@ In the next chapter we are going to learn HTML and CSS to add more features to o
 
 **This book is a work-in-progress.**
 
-**1) Please give feedback on your experience using this [survey link](https://www.surveymonkey.com/r/JY27M3J). Any feedback helps make a better book for you. Thank you!**
+**Please give feedback on your experience using this [survey link](https://www.surveymonkey.com/r/JY27M3J). Any feedback helps make a better book for you. Thank you!**
 
-**2) If you haven't joined the mailing list to be the first notified of new chapters then sign up using this [form link](http://eepurl.com/cW_Xjr)**
+**If you haven't joined the mailing list to be the first notified of new chapters then sign up using this [form link](http://eepurl.com/cW_Xjr)**
 
