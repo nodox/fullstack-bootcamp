@@ -92,3 +92,7 @@ Anyone with an internet connection can now see your app when they visit your URL
 In the next chapter we are going to learn HTML and CSS to add more features to our simple application.
 
 
+*****************************************************************
+
+**This book is a work-in-progress. Please give feedback on your experience using this [survey link](https://www.surveymonkey.com/r/JY27M3J). Any feedback helps me make a better book for you. Thank you!**
+
