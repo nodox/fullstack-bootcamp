@@ -28,8 +28,6 @@ This commands lets us see what the calendar looks like for the year `1993`. Inst
 
 Install terminal or a command line equivalent onto your computer. For PC/Windows users I recommend you use Gitbash or the linus subsystem if you are running windows 10.
 
-
-
 ## Deploy our first application
 
 
