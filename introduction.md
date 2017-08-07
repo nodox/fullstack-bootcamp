@@ -3,3 +3,5 @@ The purpose of this book is to teach you how to become a software engineer. Soft
 
 In this book we are going to train you in the art of web development. By the end of this book you will be able to build custom web applications using the proper tools. You will be able to dismantle complex application into their most basic fundamental unit and then build them yourself. You will develop a vocabulary that will demonstrate the knowledge you have as a software engineer. 
 
+# Requirements
+This book is designed for those with no programming experience. If you've ever wondered *What is coding? How do you code?* then this book is for you. In this book we will explore the fundamentals of programming and put those theories into practice.
