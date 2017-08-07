@@ -62,7 +62,7 @@ $ cd fsbc-chapter1
 $ docker build -t fsbc/chapter1 .
 ```
 
-Once the build is complete run
+Once the build is complete run the application.
 
 ```
 $ docker run -p 3005:3005 fsbc/chapter1
