@@ -81,7 +81,7 @@ $ heroku login
 $ heroku create
 ```
 
-The name of your new Heroku application will be listed as `https://NAME.herokuapp.com` in the terminal. Now let's push or deploy our application to heroku.
+The name of your new Heroku application will be listed as `https://NAME.herokuapp.com` in the terminal. Now let's push our application code to heroku.
 
 ```
 $ git push heroku master
