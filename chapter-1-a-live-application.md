@@ -44,7 +44,7 @@ Our first application will be a premade application stored in the cloud. **Githu
 
 To create different application states we use a tool called **Git**. When we finish fixing a bug or creating a new application features, we use Git to create a snapshot of the current application state. Once created, the snapshot is saved to Github where we can easily view the different versions of our application. This would be the equivalent to writing a long paper and saving your work along the way. Once the work is in a state that you are satisfied with, you create a backup and push the document to a remote cloud service like Google drive, iCloud or Dropbox.
 
-*Create an account with Github* (or Bitbucket since its free). We will use our account to get a copy of the sample application we will be deploying for our friends to see. [And install Git on your computer](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+Create an account with Github (or Bitbucket since its free). We will use our account to get a copy of the sample application we will be deploying. [And install Git on your computer](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 
 #### Get a sample application
