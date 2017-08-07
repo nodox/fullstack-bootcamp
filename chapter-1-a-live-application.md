@@ -79,7 +79,8 @@ Go back to terminal and login to your Heroku account using the credentials you g
 ```
 $ heroku login
 ```
-to login into your heroku account from the terminal. Now create a new heroku application.
+
+Now create a new heroku application.
 
 ```
 $ heroku create
