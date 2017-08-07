@@ -48,9 +48,10 @@ Create an account with Github (or Bitbucket since its free). We will use our acc
 
 
 #### Get a sample application
-Open a new terminal session, `cd` to the desktop directory and type
+Open a new terminal session, change to the desktop directory.
 
 ```
+$ cd ~/Desktop
 $ git clone https://github.com/nodox/fsbc-chapter1.git
 ```
 
