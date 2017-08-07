@@ -74,15 +74,10 @@ Its working on our local computer but people on the web can't see it yet. We nee
 
 Heroku is a great hosting service for web applications of different types. A provider like Heroku allows us to build and deploy web applications without having to know how to setup servers. [Create a free account using their website](https://www.heroku.com/). Next install the command line interface (CLI) toolbelt for Heroku found [here](https://devcenter.heroku.com/articles/heroku-cli). This toolbelt will allow us to use the command line to push our application from our local computer to Heroku for hosting.
 
-Go back to terminal and login to your Heroku account using the credentials you gave during registration.
+Go back to terminal and login to your Heroku account using the credentials you gave during registration and create a new Heroku server instance.
 
 ```
 $ heroku login
-```
-
-Now create a new heroku application.
-
-```
 $ heroku create
 ```
 The name of your new application will be listed as `https://NAME.herokuapp.com` in the terminal. Now let's push or deploy our application to heroku.
