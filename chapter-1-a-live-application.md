@@ -26,7 +26,7 @@ Each operating system calls the command line by different names. On Mac, `Termin
 ### Windows Only: Install a command line application
 We are going to use an application called `Git Bash` as our command line. Download `Git Bash` from this [page](https://git-for-windows.github.io/). When you press download you'll be taken to `github.com` where you can chose the proper version of `git-bash` to download. 
 
-If your computer has a `32-bit` CPU then download `Git-X.X.X-32-bit.exe`. If you have a `64-bit` CPU, download `Git-X.X.X-64-bit.exe`. If you don't know if you have a 32 or 64 bit CPU, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) where they discuss to difference between 32-bit and 64-bit CPU, and how to determine the bits on your specific computer.
+If your computer has a `32-bit` CPU then download `Git-X.X.X-32-bit.exe`. If you have a `64-bit` CPU, download `Git-X.X.X-64-bit.exe`. If you don't know if you have a 32 or 64 bit CPU, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) where they discuss to difference between 32-bit and 64-bit CPU, and how to determine the bits on your specific computer. 
 
 ### Fun with the terminal
 The terminal has many tools that are not useable when we use the computer with our mouse. Here is a fun exercise, do you remember what day of the week you were born? If you do you have great memory! If you are like the rest of us you might not remember. However with the terminal you can find the answer in seconds. Open up your terminal and type everything after the `$` sign.
