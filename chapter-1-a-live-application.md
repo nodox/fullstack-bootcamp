@@ -17,6 +17,25 @@ Software is a set of program files that contain the logic or set of instructions
 The command line, also know as the terminal, is an application that allows us to interact with the computer by typing commands with our keyboard. When we type those commands and press enter, the computer works to complete the command. Every thing we do with a mouse can be done using commands. The terminal however is sometimes better than using a mouse because it gives us more control over the computer.
 
 You can think of the terminal as driving a stick shift car. When driving stick you get more control of the car but you need to understand how the car works to make sure you are shifting correctly. Incorrect shifting will cause the car to turn off or worse, you could damage the clutch. The same concept applies with the terminal. With more control means we can issue better commands to complete more tasks but we need to make sure we don't issue commands that can harm the computer. 
+ 
+
+
+### How to access the command line?
+Each operating system calls the command line by different names. 
+
+## Mac 
+On Mac, `Terminal` or `Terminal.app` is an application to access the command line. To find the terminal program you can search using macOS search or you can follow these steps: `Finder > Applications > Utilities > Terminal.app`. 
+
+## Windows
+On Windows, the `command prompt` interacts with the command line. However this windows application will not be powerful enough for us to complete our projects so we need to install a better application to access the command line.
+
+### Windows Only: Install a command line application
+We are going to use an application called `Git Bash` as our command line. Download `Git Bash` from this [page](https://git-for-windows.github.io/). When you press download you'll be taken to `github.com` where you can chose the proper version of `git-bash` to download. 
+
+If your computer has a `32-bit` CPU then download `Git-X.X.X-32-bit.exe`. If you have a `64-bit` CPU, download `Git-X.X.X-64-bit.exe`. If you don't know if you have a 32 or 64 bit CPU, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) where they discuss to difference between 32-bit and 64-bit CPU, and how to determine the bits on your specific computer.
+
+
+### Fun with the terminal
 
 The terminal has many tools that are not useable when we use the computer with our mouse. Here is a fun exercise, do you remember what day of the week you were born? If you do you have great memory! If you are like the rest of us you might not remember. However with the terminal you can find the answer in seconds. Open up your terminal and type everything after the `$` sign.
 
