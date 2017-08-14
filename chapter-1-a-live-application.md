@@ -28,7 +28,8 @@ We are going to use an application called `Git Bash` as our command line. Downlo
 
 If a download did not start automatically then navigate to the proper setup page. Choose the 32-bit or 64-bit CPU setup instructions based on the bits on your CPU. If you don't know if you have a 32-bit or 64-bit CPU, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) where they discuss to difference between 32-bit and 64-bit CPU, and how to determine the bits on your specific computer.
 
-Run the `Git Bash` installation program. When you reach this page ![git-bash](git-bash.png)
+Run the `Git Bash` installation program. When you reach this page ![Local Image](/images/git-bash.png)
+
 
 ### Fun with the terminal
 The terminal has many tools that are not useable when we use the computer with our mouse. Here is a fun exercise, do you remember what day of the week you were born? If you do you have great memory! If you are like the rest of us you might not remember. However with the terminal you can find the answer in seconds. Open up your terminal and type everything after the `$` sign.
