@@ -21,7 +21,7 @@ You can think of the terminal as driving a stick shift car. When driving stick y
 
 
 ### How to access the command line?
-Each operating system calls the command line by different names. On Mac, `Terminal` or `Terminal.app` is an application to access the command line. To find the terminal program you can search using macOS search or you can follow these steps: `Finder > Applications > Utilities > Terminal.app`. On Windows, the `command prompt` interacts with the command line. However this windows application will not be powerful enough for us to complete our projects so we need to install a better application to access the command line.
+Each operating system calls the command line by different names. On Mac, `Terminal` or `Terminal.app` is an application to access the command line. Terminal comes preinstalled on all Mac computers. To find the terminal program you can search using macOS search or you can follow these steps: `Finder > Applications > Utilities > Terminal.app`. On Windows, the `command prompt` interacts with the command line. However this windows application will not be powerful enough for us to complete our projects so we need to install a better application to access the command line.
 
 ### Windows Only: Install a command line application
 We are going to use an application called `Git Bash` as our command line. Download `Git Bash` from this [page](https://git-for-windows.github.io/). When you press download you'll be taken to `github.com` where you can chose the proper version of `git-bash` to download. 
