@@ -28,7 +28,7 @@ We are going to use an application called `Git Bash` as our command line. Downlo
 
 If a download did not start automatically then navigate to the proper setup page. Choose the 32-bit or 64-bit CPU setup instructions based on the bits on your CPU. If you don't know if you have a 32-bit or 64-bit CPU, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) where they discuss to difference between 32-bit and 64-bit CPU, and how to determine the bits on your specific computer.
 
-Run the `Git Bash` installation program. Select `Use Git from Git Bash only` when you see the option. Choose `Commit Windows-style, commit Unix-style line endings` option. Then choose the default options left.
+Run the `Git Bash` installation program. Select `Use Git from Git Bash only` when you see the option. Choose `Commit Windows-style, commit Unix-style line endings` option. Then choose the default options left. Once installation is done you'll find your application in the start menu.
 
 
 ### Fun with the terminal
@@ -41,6 +41,13 @@ $ cal 1993
 This commands lets us see what the calendar looks like for the year `1993`. Instantly we can find the day we were born. Even if you don't learn how to code professionally, learning even how to use the terminal for very simple tasks can make you extremely productive in your daily life. 
 
 Install terminal or a command line equivalent onto your computer. For PC/Windows users I recommend you use Gitbash or the linus subsystem if you are running windows 10.
+
+
+
+
+
+
+
 
 ## Deploy our first application
 To start coding we are going to need a development environment. The purpose of a development environment is to develop programs. There are other environments that are used to test applications or see how they will behave once they are deployed live, these are commonly called test and production.
