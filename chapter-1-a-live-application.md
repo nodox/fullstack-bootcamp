@@ -15,9 +15,7 @@ Software is a set of program files that contain the logic or set of instructions
 
 
 ##
-For windows users we are going to need to run a different operating system called linux on our computers. Linux is a free software. Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop).
-
-Download the virtualization software [virtualbox](https://virtualbox.org/wiki/Downloads). Run the installation program with all the default options. 
+For windows users we are going to need to run a different operating system called linux on our computers. Linux is a free software. Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop).Download the virtualization software Virtualbox from this [page](https://virtualbox.org/wiki/Downloads). Run the installation program with all the default options. 
 
  
 
