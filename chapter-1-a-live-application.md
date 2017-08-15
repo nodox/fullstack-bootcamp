@@ -31,6 +31,11 @@ If a download did not start automatically then navigate to the proper setup page
 Run the `Git Bash` installation program. Select `Use Git from Git Bash only` when you see the option. Choose `Commit Windows-style, commit Unix-style line endings` option. Then choose the default options left. Once installation is done you'll find your application in the start menu.
 
 
+
+
+
+
+
 ### Fun with the terminal
 The terminal has many tools that are not useable when we use the computer with our mouse. Here is a fun exercise, do you remember what day of the week you were born? If you do you have great memory! If you are like the rest of us you might not remember. However with the terminal you can find the answer in seconds. Open up your terminal and type everything after the `$` sign.
 
@@ -58,7 +63,7 @@ Our development environment will be created using a tool called Docker. Docker i
 Since every computer has its own personality and different set of settings then we can avoid the headache of having to fix errors in our application caused by the different settings on both computers. As you begin to create applications you will often run into a scenario where the application runs fine on your computer but not on the server, Docker solves that problem.
 
 ### Download Docker
-Docker is a publicly available. Navigate to the docker website, find the community edition and install the latest version of docker. [Follow this link to the downloads page.](https://www.docker.com/community-edition) Choose the package that fits your computer. Run the installation program and start up docker. You should see the small whale icon in your tool bar.
+Docker is a publicly available. Navigate to the docker website, find the community edition and install the latest version of docker. [Follow this link to the downloads page.](https://www.docker.com/community-edition) Choose the package that fits your computer. Older versions of Mac or Windows might require you to download [docker toolbox](https://docs.docker.com/toolbox), if this is the case you'll recieve a popup window in the docker installation program. Run the installation program and start up docker. You should see the small whale icon in your tool bar.
 
 ### Github and Git
 Our first application will be a premade application stored in the cloud. **Github** is a web application used to store our the code of our applications in cloud storage. If the computer we use to develop becomes unuseable and needs to be replaced we can rest easy knowing our application files are safely stored in another location. Github also gives us the power of version control. Version control is a way to visualize the different states of your applications.
@@ -66,6 +71,9 @@ Our first application will be a premade application stored in the cloud. **Githu
 To create different application states we use a tool called **Git**. When we finish fixing a bug or creating a new application features, we use Git to create a snapshot of the current application state. Once created, the snapshot is saved to Github where we can easily view the different versions of our application. This would be the equivalent to writing a long paper and saving your work along the way. Once the work is in a state that you are satisfied with, you create a backup and push the document to a remote cloud service like Google drive, iCloud or Dropbox.
 
 Create an account with [Github](https://github.com) (or [Bitbucket](https://bitbucket.org/) since its free). We will use our account to get a copy of the sample application we will be deploying. Once you are done install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer so we can access Github from the terminal.
+
+
+
 
 
 #### Get a sample application
