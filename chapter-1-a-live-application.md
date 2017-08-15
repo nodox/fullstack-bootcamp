@@ -13,6 +13,15 @@ A computer is made of many parts. All these parts fall into one of two categorie
 
 Software is a set of program files that contain the logic or set of instructions, that are to be run by the user (either you or the copmuter itself). The instructions are passed down to the physical hardware where the command is executed. The execution of these programs output a series of 0's and 1's that tell the physical hardware what switches to flip in order to make the computer give a specific output. 
 
+
+##
+For windows users we are going to need to run a different operating system called linux on our computers. Linux is a free software. Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop).
+
+Download the virtualization software [virtualbox](https://virtualbox.org/wiki/Downloads). Run the installation program with all the default options. 
+
+ 
+
+
 ### What is the command line?
 The command line, also know as the terminal, is an application that allows us to interact with the computer by typing commands with our keyboard. When we type those commands and press enter, the computer works to complete the command. Every thing we do with a mouse can be done using commands. The terminal however is sometimes better than using a mouse because it gives us more control over the computer.
 
