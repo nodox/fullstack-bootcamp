@@ -9,7 +9,6 @@ Our goal for this chapter is to deploy a simple application that has the words *
 
 These programs are found all over the computer. When you are opening files, creating folders, downloading ebooks or doing anything with our computer we are coding. However we aren't considered coders because we did not write how these programs should behave when they are opened. We interact with the code written by someone else, and the program is responding to all the actions we are performing on the computer. 
 
-
 ## Deploy our first application
 To start coding we are going to need a development environment. The purpose of a development environment is to develop programs. There are other environments that are used to test applications or see how they will behave once they are deployed live, these are commonly called test and production.
 
