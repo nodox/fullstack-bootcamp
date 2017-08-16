@@ -28,6 +28,8 @@ These are the commands you will type into the terminal, an application used to i
 
 When you encounter these first analyze them and then proceed to type them. Writing code this way will increase your ability to rememeber the commands later on. Sometimes you might see this type of `inline code` block. These will be used to identify names, certain outputs, or to reference the commands mentioned in the code block.
 
+As we download different software, you might encounter a version that is different from the one used in the book. To denote that a version of some software might change you might see something like `1.X.X`. The X's serve as placeholders to show that there might be a difference between the version in this book and the current one you will download. 
+
 ## The community
 Learning with others while programming is essential to becoming a better programmer. Our community can be found in a number of places.
     * Slack 
