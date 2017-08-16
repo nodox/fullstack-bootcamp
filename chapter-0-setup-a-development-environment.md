@@ -1,4 +1,5 @@
 # Chapter 0: Setup a development environment
+The core components of writing web applications are an operating system and the terminal.
 
 ### The computer and operating system
 To start your journey as a programmer you are going to need the right tools. These tools will allow you to run programs that perform the tasks you want completed. The first and most important tool is your computer.
