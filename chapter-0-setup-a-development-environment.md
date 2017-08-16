@@ -24,7 +24,7 @@ Lets download the a version of the linux operating systems called `Ubuntu` from 
 
 
   
-Download the virtualization software [Virtualbox](https://virtualbox.org/wiki/Downloads). Virtualbox allows us to run different operating system that are different from the ones we are currently using. If this doesn't make sense now you'll understand as soon as the installation of Linux is finished.
+Download the virtualization software [Virtualbox](https://virtualbox.org/wiki/Downloads). Virtualbox allows us to run different operating system that are different from the ones we are currently using in a virtual environment. If this doesn't make sense now you'll understand as soon as the installation of Linux is finished.
 
 
 Run the installation program with all the default options. Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automatically detected. 
