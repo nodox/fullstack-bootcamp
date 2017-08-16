@@ -17,7 +17,21 @@ You can think of the terminal as driving a stick shift car. When driving stick y
 Each operating system calls the command line by different names. On Mac, `Terminal` or `Terminal.app` is an application to access the command line. Terminal comes preinstalled on all Mac computers. To find the terminal program you can search using macOS search or you can follow these steps: `Finder > Applications > Utilities > Terminal.app`. On Windows, the `command prompt` interacts with the command line. However this windows application will not be powerful enough for us to complete our projects so we need to install a better application to access the command line.
 
 ## Windows Only: Install Linux
-For windows users we are going to need to run a different operating system called linux on our computers. Linux is a free software. Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop). You will see a `ubuntu.iso` file somewhere in your downloads folder. Download the virtualization software Virtualbox from this [page](https://virtualbox.org/wiki/Downloads). Run the installation program with all the default options. Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automaticall detected. If not, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) to determine the number of bits on your CPU. Once created, click the ubuntu and then click settings up top. Go to `storage`, under `Controller: IDE` choose the empty CD slot. On the `Optical Drive`, choose the little CD picture and located the ubuntu.iso file we just downloaded. Start the Press ok and launch the ubuntu OS.
+For windows users we are going to need to run a different operating system called linux on our computers. Linux is a free software. 
+
+Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop). You will see a `ubuntu.iso` file somewhere in your downloads folder.
+
+  
+Download the virtualization software Virtualbox from this [page](https://virtualbox.org/wiki/Downloads). 
+
+Run the installation program with all the default options. Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automatically detected. 
+
+If not, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) to determine the number of bits on your CPU. 
+
+
+Once created, click the ubuntu and then click settings up top. Go to `storage`, under `Controller: IDE` choose the empty CD slot. On the `Optical Drive`, choose the little CD picture and located the ubuntu.iso file we just downloaded. Start the Press ok and launch the ubuntu OS.
+
+
 If you are confused please see this [tutorial](https://askubuntu.com/questions/710608/how-do-i-install-ubuntu-on-virtualbox-on-mac-os-x-el-capitan). Install ubuntu following the default options. When you are done and see the desktop, right click and press `Open Terminal`.
 
 ### Fun with the terminal
