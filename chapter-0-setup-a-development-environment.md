@@ -1,10 +1,5 @@
 # Chapter 0: Setup a development environment
 
-## What is coding?
-*What is coding?* Coding is the act of writing a set of commands, or code, into a text file. The commands in file are written to follow a set of rules defined by the specific programming language. The text file is converted to a program by executing each instruction in the file line by line, or the file can be read for errors and then converted all at once to a runnable program. 
-
-These programs are found all over the computer. When you are opening files, creating folders, downloading ebooks or doing anything with our computer we are coding. However we aren't considered coders because we did not write how these programs should behave when they are opened. We interact with the code written by someone else, and the program is responding to all the actions we are performing on the computer. 
-
 ### The computer and operating system
 To start your journey as a programmer you are going to need the right tools. These tools will allow you to run programs that perform the tasks you want completed. The first and most important tool is your computer.
 
