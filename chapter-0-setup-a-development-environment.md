@@ -19,7 +19,9 @@ Each operating system calls the command line by different names. On Mac, `Termin
 ## Windows Only: Install Linux
 For windows users we are going to need to run a different operating system called linux on our computers. Linux is a free software. 
 
-Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop). You will see a `ubuntu.16.X.X-desktop-amdXX.iso` file somewhere in your downloads folder.
+Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop). You will see a `ubuntu.16.X.X-desktop-amdXX.iso` file somewhere in your downloads folder. We're going to use this in just a bit.
+
+
 
   
 Download the virtualization software Virtualbox from this [page](https://virtualbox.org/wiki/Downloads). 
