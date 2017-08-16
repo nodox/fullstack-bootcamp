@@ -32,7 +32,10 @@ If not, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/1
 Once created, click the ubuntu and then click settings up top. Go to `storage`, under `Controller: IDE` choose the empty CD slot. On the `Optical Drive`, choose the little CD picture and located the ubuntu.iso file we just downloaded. Start the Press ok and launch the ubuntu OS.
 
 
-If you are confused please see this [tutorial](https://askubuntu.com/questions/710608/how-do-i-install-ubuntu-on-virtualbox-on-mac-os-x-el-capitan). Install ubuntu following the default options. When you are done and see the desktop, right click and press `Open Terminal`.
+If you are confused please see this [tutorial](https://askubuntu.com/questions/710608/how-do-i-install-ubuntu-on-virtualbox-on-mac-os-x-el-capitan). Install ubuntu following the default options. 
+
+
+When you are done and see the desktop, right click and press `Open Terminal`.
 
 ### Fun with the terminal
 The terminal has many tools that are not useable when we use the computer with our mouse. Here is a fun exercise, do you remember what day of the week you were born? If you do you have great memory! If you are like the rest of us you might not remember. However with the terminal you can find the answer in seconds. Open up your terminal and type everything after the `$` sign.
