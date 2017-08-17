@@ -29,7 +29,8 @@ Download the virtualization software [Virtualbox](https://virtualbox.org/wiki/Do
 
 Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automatically detected. 
 
-![new-vm-image](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/test2.png)
+![new-vm-image](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/ultimate.png)
+
 
 
 If not, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) to determine the number of bits on your CPU. 
