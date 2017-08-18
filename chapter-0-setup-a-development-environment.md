@@ -49,13 +49,10 @@ When you are done and see the desktop, right click and press `Open Terminal`.
 
 
 ## Fun with the terminal
-
-### What is the command line?
 The command line, also know as the terminal, is an application that allows us to interact with the computer by typing commands with our keyboard. When we type those commands and press enter, the computer works to complete the command. Every thing we do with a mouse can be done using commands. The terminal however is sometimes better than using a mouse because it gives us more control over the computer.
 
 You can think of the terminal as driving a stick shift car. When driving stick you get more control of the car but you need to understand how the car works to make sure you are shifting correctly. Incorrect shifting will cause the car to turn off or worse, you could damage the clutch. The same concept applies with the terminal. With more control means we can issue better commands to complete more tasks but we need to make sure we don't issue commands that can harm the computer. 
  
-### How to access the command line?
 Each operating system calls the command line by different names. On Mac, `Terminal` or `Terminal.app` is an application to access the command line. Terminal comes preinstalled on all Mac computers. To find the terminal program you can search using macOS search or you can follow these steps: `Finder > Applications > Utilities > Terminal.app`. On Windows, the `command prompt` interacts with the command line. However this windows application will not be powerful enough for us to complete our projects so we need to install a better application to access the command line.
 
 
