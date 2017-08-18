@@ -31,7 +31,9 @@ Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The
 
 ![new-vm-image-1](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-virtualbox-step1.png)
 
-hmmmm
+Notes: 
+- Canvas layer: 1200x1000 (wxh) final size
+- Figure layer: 1000x755*
 
 ![new-vm-image-1](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-virtualbox-step2.png)
 
