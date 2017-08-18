@@ -56,13 +56,6 @@ You can think of the terminal as driving a stick shift car. When driving stick y
 Each operating system calls the command line by different names. On Mac, `Terminal` or `Terminal.app` is an application to access the command line. Terminal comes preinstalled on all Mac computers. To find the terminal program you can search using macOS search or you can follow these steps: `Finder > Applications > Utilities > Terminal.app`. On Windows, the `command prompt` interacts with the command line. However this windows application will not be powerful enough for us to complete our projects so we need to install a better application to access the command line.
 
 
-
-
-
-
-
-
-
 The terminal has many tools that are not useable when we use the computer with our mouse. Here is a fun exercise, do you remember what day of the week you were born? If you do you have great memory! If you are like the rest of us you might not remember. However with the terminal you can find the answer in seconds. Open up your terminal and type everything after the `$` sign.
 
 ```
