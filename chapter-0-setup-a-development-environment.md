@@ -48,6 +48,11 @@ If you are confused please see this [tutorial](https://askubuntu.com/questions/7
 When you are done and see the desktop, right click and press `Open Terminal`.
 
 
+
+
+
+
+
 ### What is the command line?
 The command line, also know as the terminal, is an application that allows us to interact with the computer by typing commands with our keyboard. When we type those commands and press enter, the computer works to complete the command. Every thing we do with a mouse can be done using commands. The terminal however is sometimes better than using a mouse because it gives us more control over the computer.
 
