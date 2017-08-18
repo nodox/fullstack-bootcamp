@@ -29,7 +29,14 @@ Download the virtualization software [Virtualbox](https://virtualbox.org/wiki/Do
 
 Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automatically detected. 
 
-![new-vm-image](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-virtualbox-step1.png)
+![new-vm-image-1](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-virtualbox-step1.png)
+
+hmmmm
+
+![new-vm-image-1](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-virtualbox-step2.png)
+
+
+Now will we see a second?
 
 
 
