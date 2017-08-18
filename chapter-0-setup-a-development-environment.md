@@ -48,10 +48,7 @@ If you are confused please see this [tutorial](https://askubuntu.com/questions/7
 When you are done and see the desktop, right click and press `Open Terminal`.
 
 
-
-
-
-
+## Fun with the terminal
 
 ### What is the command line?
 The command line, also know as the terminal, is an application that allows us to interact with the computer by typing commands with our keyboard. When we type those commands and press enter, the computer works to complete the command. Every thing we do with a mouse can be done using commands. The terminal however is sometimes better than using a mouse because it gives us more control over the computer.
@@ -65,7 +62,10 @@ Each operating system calls the command line by different names. On Mac, `Termin
 
 
 
-### Fun with the terminal
+
+
+
+
 The terminal has many tools that are not useable when we use the computer with our mouse. Here is a fun exercise, do you remember what day of the week you were born? If you do you have great memory! If you are like the rest of us you might not remember. However with the terminal you can find the answer in seconds. Open up your terminal and type everything after the `$` sign.
 
 ```
