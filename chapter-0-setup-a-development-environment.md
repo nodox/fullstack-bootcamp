@@ -25,32 +25,11 @@ Leave the memory size on the default setting. The more memory you give to Ubuntu
 ![nvm-step3](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step3.png)
 
 Choose `Create a virtual hard disk now` to create the virtual instance of ubuntu. This option allows use to create a version on your computer without haveing to buy a brand new computer with the OS installed. Virtualbox shares the hardware on our computer with Ubuntu.
-![nvm-step3](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step4.png)
+![nvm-step4](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step4.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Choose `VDI (Virtual Disk Image)`. We want Virtualbox  to load our operating system from a virtual disk. Press `Next`.
+![nvm-step3](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step5.png)
 
 
 
