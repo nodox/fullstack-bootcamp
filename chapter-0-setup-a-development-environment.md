@@ -52,15 +52,11 @@ Click `Start` to startup Ubuntu.
 Click `Install Ubuntu` to install the OS within the virtual box container we setup earlier.
 ![nvm-step12](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step1.png)
 
+Select both options to ensure Ubuntu is fully updated during installation.
+![nvm-step12](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step2.png)
 
-
-
-
-
-
-
-
-
+Select `erase disk and install Ubuntu`. No, this will not delete the files in you're regular operating system since we are currently in a virtual container that has portioned out to 10 GB free space on your computer. Press `install now` to continue with the installation.
+![nvm-step13](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step3.png)
 
 
 
