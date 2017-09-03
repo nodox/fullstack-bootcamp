@@ -64,19 +64,8 @@ Click `continue` on the screen that pops up.
 Choose your timezone and then click `continue`.
 ![nvm-step16](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step5.png)
 
-
-
-
-
-
-
-
-
-
-
-
-If not, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) to determine the number of bits on your CPU. 
-
+Select your preferred language and press `continue`.
+![nvm-step17](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step6.png)
 
 
 
