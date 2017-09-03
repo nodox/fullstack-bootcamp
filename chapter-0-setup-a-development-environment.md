@@ -28,10 +28,19 @@ Choose `Create a virtual hard disk now` to create the virtual instance of ubuntu
 ![nvm-step4](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step4.png)
 
 Choose `VDI (Virtual Disk Image)`. We want Virtualbox  to load our operating system from a virtual disk. Click `Next`.
-![nvm-step3](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step5.png)
+![nvm-step5](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step5.png)
 
 We want our data to be stored as we need more of therefore we need to select `Dynamically allocated` and click `Next`. 
-![nvm-step3](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step6.png)
+![nvm-step6](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step6.png)
+
+Now we need to specify the size of out OS. Ubuntu requires 8GB by default. Let's choose any number between 10 and 15 GB so we have space to save our projects. Don't worry you can delete the OS later and regain you're 10GB of space if you're ever running out of space on your Hard drive. Give your virtual hard disk a name and press `Create`.
+![nvm-step7](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step7.png)
+
+
+
+
+
+
 
 
 
