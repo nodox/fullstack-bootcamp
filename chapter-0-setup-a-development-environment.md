@@ -12,18 +12,9 @@ Software is a set of program files that contain the logic or set of instructions
 ## Development Environment Setup
 To code we are going to need to run a different operating system called linux on our computers. Linux is a free software. Virtualbox allows us to virtually run operating systems that are different from the ones we are currently using. In this case we are going to use virtualbox to run linux on our computer. If this doesn't make sense now you'll understand when we finish the installation process. Download Virtualbox [here](https://virtualbox.org/wiki/Downloads) and start the application.
 
-Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automatically detected. 
+Step >> Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automatically detected. 
 
 ![new-vm-image-1](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-virtualbox-step1.png)
-
-Notes: 
-- Canvas layer: 1200x1000 (wxh) final size
-- Figure layer: 1000x755*
-
-![new-vm-image-1](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-virtualbox-step2.png)
-
-
-Now will we see a second?
 
 
 
@@ -38,16 +29,6 @@ Lets download the a version of the linux operating systems called `Ubuntu` from 
 
 
 If not, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) to determine the number of bits on your CPU. 
-
-
-Once created, click the ubuntu and then click settings up top. Go to `storage`, under `Controller: IDE` choose the empty CD slot. On the `Optical Drive`, choose the little CD picture and located the ubuntu.iso file we just downloaded. Start the Press ok and launch the ubuntu OS.
-
-
-If you are confused please see this [tutorial](https://askubuntu.com/questions/710608/how-do-i-install-ubuntu-on-virtualbox-on-mac-os-x-el-capitan). Install ubuntu following the default options. 
-
-
-
-
 
 
 
