@@ -10,9 +10,7 @@ Software is a set of program files that contain the logic or set of instructions
 
 
 ## Development Environment Setup
-To code we are going to need to run a different operating system called linux on our computers. Linux is a free software. 
-
-Download the virtualization software [Virtualbox](https://virtualbox.org/wiki/Downloads). Virtualbox allows us to run operating systems that are different from the ones we are currently using in a virtual environment. If this doesn't make sense now you'll understand as soon as the installation of Linux is finished. Run the Virtualbox installation program with all the default options. 
+To code we are going to need to run a different operating system called linux on our computers. Linux is a free software. Virtualbox allows us to virtually run operating systems that are different from the ones we are currently using. In this case we are going to use virtualbox to run linux on our computer. If this doesn't make sense now you'll understand when we finish the installation process. Download Virtualbox [here](https://virtualbox.org/wiki/Downloads).
 
 Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automatically detected. 
 
