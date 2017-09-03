@@ -21,13 +21,13 @@ Click the new button to create a virtual operating systems.
 We need to give a name to our virtual operating system. We are going to call it `Ubuntu` which is the name of a linux version we are going to install. Change the type to Linux, the version section should be automatically detected. Click on `Next` or continue, if you're not using windows.
 ![nvm-step2](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step2.png)
 
-Leave the memory size on the default setting. The more memory you give to Ubuntu the faster it will run. However when your run the Ubuntu and try to  work on your normal OS you might notice your computer running slower because your computer is sharing memory with Ubuntu.
+Leave the memory size on the default setting. The more memory you give to Ubuntu the faster it will run. However when your run the Ubuntu and try to  work on your normal OS you might notice your computer running slower because your computer is sharing memory with Ubuntu. Click on `Next`.
 ![nvm-step3](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step3.png)
 
-Choose `Create a virtual hard disk now` to create the virtual instance of ubuntu. This option allows use to create a version on your computer without haveing to buy a brand new computer with the OS installed. Virtualbox shares the hardware on our computer with Ubuntu.
+Choose `Create a virtual hard disk now` to create the virtual instance of ubuntu. This option allows use to create a version on your computer without haveing to buy a brand new computer with the OS installed. Virtualbox shares the hardware on our computer with Ubuntu. Click `Next`.
 ![nvm-step4](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step4.png)
 
-Choose `VDI (Virtual Disk Image)`. We want Virtualbox  to load our operating system from a virtual disk. Press `Next`.
+Choose `VDI (Virtual Disk Image)`. We want Virtualbox  to load our operating system from a virtual disk. Click `Next`.
 ![nvm-step3](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step5.png)
 
 We want our data to be stored as we need more of therefore we need to select `Dynamically allocated` and click `Next`. 
