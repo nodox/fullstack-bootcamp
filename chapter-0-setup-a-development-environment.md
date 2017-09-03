@@ -71,22 +71,20 @@ Fill in the forms with the proper information and click `continue`.
 ![nvm-step18](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step7.png)
 
 Wait for the installation to finish. This part will take a while. Tell your friend on twitter that you're learning to code!
-![nvm-step18](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step8.png)
+![nvm-step19](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step8.png)
+
+Once the installation is finished press the `restart now` button.
+![nvm-step20](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step9.png)
+
+Wait for Ubuntu to boot up. 
+![nvm-step21](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step10.png)
 
 
-![nvm-step18](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step8.png)
+Login to Ubuntu with the credentials you entered earlier.
+![nvm-step22](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step11.png)
 
-
-
-
-
-
-
-
-
-
-
-
+Congratulations you are now have Ubuntu Desktop on your computer! Now we can start coding!
+![nvm-step23](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step12.png)
 
 
 ## Fun with the terminal
