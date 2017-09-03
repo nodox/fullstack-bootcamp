@@ -67,6 +67,23 @@ Choose your timezone and then click `continue`.
 Select your preferred language and press `continue`.
 ![nvm-step17](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step6.png)
 
+Fill in the forms with the proper information and click `continue`.
+![nvm-step18](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step7.png)
+
+Wait for the installation to finish. This part will take a while. Tell your friend on twitter that you're learning to code!
+![nvm-step18](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step8.png)
+
+
+![nvm-step18](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step8.png)
+
+
+
+
+
+
+
+
+
 
 
 
