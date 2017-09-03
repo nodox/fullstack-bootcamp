@@ -9,11 +9,10 @@ A computer is made of many parts. All these parts fall into one of two categorie
 Software is a set of program files that contain the logic or set of instructions, that are to be run by the user (either you or the copmuter itself). The instructions are passed down to the physical hardware where the command is executed. The execution of these programs output a series of 0's and 1's that tell the physical hardware what switches to flip in order to make the computer give a specific output. 
 
 
-## Windows Only: Install Linux
-For windows users we are going to need to run a different operating system called linux on our computers. Linux is a free software. 
+## Development Environment Setup
+To code we are going to need to run a different operating system called linux on our computers. Linux is a free software. 
 
 Download the virtualization software [Virtualbox](https://virtualbox.org/wiki/Downloads). Virtualbox allows us to run different operating system that are different from the ones we are currently using in a virtual environment. If this doesn't make sense now you'll understand as soon as the installation of Linux is finished. Run the Virtualbox installation program with all the default options. 
-
 
 Click the new button, on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automatically detected. 
 
