@@ -49,6 +49,17 @@ Select the Ubuntu file you downloaded and click open.
 Click `Start` to startup Ubuntu.
 ![nvm-step11](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p1-step4.png)
 
+Click `Install Ubuntu` to install the OS within the virtual box container we setup earlier.
+![nvm-step12](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p2-step1.png)
+
+
+
+
+
+
+
+
+
 
 
 
