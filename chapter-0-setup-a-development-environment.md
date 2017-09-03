@@ -46,9 +46,8 @@ With virtual box we created the virtual OS to run Ubuntu but we still need an ac
 Select the Ubuntu file you downloaded and click open.
 ![nvm-step10](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p1-step3.png)
 
-
-
-
+Click `Start` to startup Ubuntu.
+![nvm-step11](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p1-step4.png)
 
 
 
