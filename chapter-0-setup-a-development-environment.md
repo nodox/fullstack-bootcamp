@@ -40,25 +40,16 @@ Now we need to specify the size of out OS. Ubuntu requires 8GB by default. Let's
 Sweet. We've created our virtual OS within virtualbox now let's setup Ubuntu. Click `Start` to startup Ubuntu. This action is the same as pressing the power button to startup a physical computer.
 ![nvm-step7](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p1-step1.png)
 
+With virtual box we created the virtual OS to run Ubuntu but we still need an actual copy of the real OS, as you would get from a physical CD. Ubuntu let's you download the OS from free from their website. Open your browser and follow the instructions on the [site](https://www.ubuntu.com/desktop) to download a copy of Ubuntu. You will see a `ubuntu.16.X.X-desktop-amdXX.iso` file somewhere in your downloads folder. Go back to virtualbox and click the folder icon. 
+![nvm-step7](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p1-step2.png)
+
+
+ We're going to use this in just a bit.
 
 
 
 
 
-
-
-
-
-
-
-
-
-on the drop down choose `Linux` and `Ubuntu (XX-bit)`. The default bits on your computer wil be automatically detected. 
-
-
-
-
-Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop). You will see a `ubuntu.16.X.X-desktop-amdXX.iso` file somewhere in your downloads folder. We're going to use this in just a bit.
 
 
 
