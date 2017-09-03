@@ -103,7 +103,6 @@ $ cal 1993
 
 This commands lets us see what the calendar looks like for the year `1993`. Instantly we can find the day we were born. Even if you don't learn how to code professionally, learning even how to use the terminal for very simple tasks can make you extremely productive in your daily life. 
 
-Install terminal or a command line equivalent onto your computer. For PC/Windows users I recommend you use Gitbash or the linus subsystem if you are running windows 10.
 
 
 
