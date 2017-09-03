@@ -15,8 +15,6 @@ For windows users we are going to need to run a different operating system calle
 Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop). You will see a `ubuntu.16.X.X-desktop-amdXX.iso` file somewhere in your downloads folder. We're going to use this in just a bit.
 
 
-
-  
 Download the virtualization software [Virtualbox](https://virtualbox.org/wiki/Downloads). Virtualbox allows us to run different operating system that are different from the ones we are currently using in a virtual environment. If this doesn't make sense now you'll understand as soon as the installation of Linux is finished. Run the Virtualbox installation program with all the default options. 
 
 
