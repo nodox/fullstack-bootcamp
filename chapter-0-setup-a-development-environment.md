@@ -12,9 +12,6 @@ Software is a set of program files that contain the logic or set of instructions
 ## Windows Only: Install Linux
 For windows users we are going to need to run a different operating system called linux on our computers. Linux is a free software. 
 
-Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop). You will see a `ubuntu.16.X.X-desktop-amdXX.iso` file somewhere in your downloads folder. We're going to use this in just a bit.
-
-
 Download the virtualization software [Virtualbox](https://virtualbox.org/wiki/Downloads). Virtualbox allows us to run different operating system that are different from the ones we are currently using in a virtual environment. If this doesn't make sense now you'll understand as soon as the installation of Linux is finished. Run the Virtualbox installation program with all the default options. 
 
 
@@ -33,6 +30,15 @@ Now will we see a second?
 
 
 
+Lets download the a version of the linux operating systems called `Ubuntu` from this [page](https://www.ubuntu.com/downloads/desktop). You will see a `ubuntu.16.X.X-desktop-amdXX.iso` file somewhere in your downloads folder. We're going to use this in just a bit.
+
+
+
+
+
+
+
+
 
 If not, visit this [Windows FAQ page](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) to determine the number of bits on your CPU. 
 
@@ -43,7 +49,13 @@ Once created, click the ubuntu and then click settings up top. Go to `storage`, 
 If you are confused please see this [tutorial](https://askubuntu.com/questions/710608/how-do-i-install-ubuntu-on-virtualbox-on-mac-os-x-el-capitan). Install ubuntu following the default options. 
 
 
-When you are done and see the desktop, right click and press `Open Terminal`.
+
+
+
+
+
+
+
 
 
 ## Fun with the terminal
