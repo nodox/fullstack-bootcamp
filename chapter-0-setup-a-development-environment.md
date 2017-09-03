@@ -12,14 +12,37 @@ Software is a set of program files that contain the logic or set of instructions
 ## Development Environment Setup
 To code we are going to need to run a different operating system called linux on our computers. Linux is a free software. Virtualbox allows us to virtually run operating systems that are different from the ones we are currently using. In this case we are going to use virtualbox to run linux on our computer. If this doesn't make sense now you'll understand when we finish the installation process. Download Virtualbox [here](https://virtualbox.org/wiki/Downloads) and start the application.
 
+
+## Setup virtual box with linux
 Click the new button to create a virtual operating systems. 
 ![nvm-step1](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step1.png)
 
 
-We need to give a name to our virtual operating system. We are going to call it `Ubuntu` which is the name of a linux version we are going to install. Change the type to Linux, the version section should be automatically detected.
+We need to give a name to our virtual operating system. We are going to call it `Ubuntu` which is the name of a linux version we are going to install. Change the type to Linux, the version section should be automatically detected. 
 ![nvm-step2](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step2.png)
 
-Step >> 
+Leave the memory size on the default setting. The more memory you give to Ubuntu the faster it will run. However when your run the Ubuntu and try to  work on your normal OS you might notice your computer running slower because your computer is sharing memory with Ubuntu.
+![nvm-step3](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step3.png)
+
+Choose `Create a virtual hard disk now` to create the virtual instance of ubuntu. This option allows use to create a version on your computer without haveing to buy a brand new computer with the OS installed. Virtualbox shares the hardware on our computer with Ubuntu.
+![nvm-step3](https://cdn.rawgit.com/nodox/fsbc-images/feat-dev/virtualbox-linux-installation/finals/final-p0-step4.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
