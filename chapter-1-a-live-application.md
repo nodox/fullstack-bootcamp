@@ -26,6 +26,7 @@ Create an account with [Github](https://github.com) (or [Bitbucket](https://bitb
 Open a new terminal session, change to the base directory.
 
 ```
+$ sudo apt-get install git-all
 $ cd
 $ git clone https://github.com/nodox/fsbc-chapter1.git
 ```
