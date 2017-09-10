@@ -20,10 +20,10 @@ Our first application will be a premade application stored in the cloud. **Githu
 To create different application states we use a tool called **Git**. When we finish fixing a bug or creating a new application features, we use Git to create a snapshot of the current application state. Once created, the snapshot is saved to Github where we can easily view the different versions of our application. This would be the equivalent to writing a long paper and saving your work along the way. Once the work is in a state that you are satisfied with, you create a backup and push the document to a remote cloud service like Google drive, iCloud or Dropbox. In ther current terminal session (or to create a new terminal session right-click the desktop and select, `Open Terminal`) install Git. 
 
 ```
-$ sudo apt-get install git-all
+$ sudo apt-get install git-all // might not be necessary
 ```
 
-Now our computer can access Github from the terminal. Change to the base directory, a directory is terminal talk for folder, and clone our new application.
+Type `Y` to any prompts to continue with installation. Now our computer can access Github from the terminal. Change to the base directory, a directory is terminal talk for folder, and clone our new application.
 
 ```
 
