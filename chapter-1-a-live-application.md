@@ -27,9 +27,6 @@ To create different application states we use a tool called **Git**. When we fin
 Create an account with [Github](https://github.com) (or [Bitbucket](https://bitbucket.org/) since its free). We will use our account to get a copy of the sample application we will be deploying. Once you are done install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer so we can access Github from the terminal.
 
 
-
-
-
 #### Get a sample application
 Open a new terminal session, change to the base directory.
 
