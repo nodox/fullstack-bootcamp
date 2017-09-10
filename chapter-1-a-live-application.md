@@ -23,10 +23,7 @@ To create different application states we use a tool called **Git**. When we fin
 $ sudo apt-get install git-all
 ```
 
-Now our computer can access Github from the terminal.
-
-#### Get a sample application
-Open a new terminal session, change to the base directory.
+Now our computer can access Github from the terminal. Change to the base directory, a directory is terminal talk for folder, and clone our new application.
 
 ```
 
