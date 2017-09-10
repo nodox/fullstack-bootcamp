@@ -23,6 +23,9 @@ To create different application states we use a tool called **Git**. When we fin
 $ sudo apt-get install git-all // might not be necessary
 ```
 
+Causing errors after git-all install
+(https://askubuntu.com/questions/771839/problem-installing-package-git-all)
+
 Type `Y` to any prompts to continue with installation. Now our computer can access Github from the terminal. Change to the base directory, a directory is terminal talk for folder, and clone our new application.
 
 ```
