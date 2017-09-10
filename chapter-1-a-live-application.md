@@ -39,7 +39,7 @@ This command says to move our current directory to the lowest level and clone an
 
 ```
 $ cd fsbc-chapter1
-$ docker build -t fsbc/chapter1 .
+$ node bin/www
 ```
 
 Once the build is complete run the application.
