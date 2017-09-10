@@ -14,15 +14,16 @@ Our development environment will be created using a tool called Docker. Docker i
 
 Since every computer has its own personality and different set of settings then we can avoid the headache of having to fix errors in our application caused by the different settings on both computers. As you begin to create applications you will often run into a scenario where the application runs fine on your computer but not on the server, Docker solves that problem.
 
-### Github and Git
+### Get a sample application
 Our first application will be a premade application stored in the cloud. **Github** is a web application used to store our the code of our applications in cloud storage. If the computer we use to develop becomes unuseable and needs to be replaced we can rest easy knowing our application files are safely stored in another location. Github also gives us the power of version control. Version control is a way to visualize the different states of your applications. Create an account with [Github](https://github.com) (or [Bitbucket](https://bitbucket.org/) since its free). We will use our account to get a copy of the sample application we will be deploying. 
 
-To create different application states we use a tool called **Git**. When we finish fixing a bug or creating a new application features, we use Git to create a snapshot of the current application state. Once created, the snapshot is saved to Github where we can easily view the different versions of our application. This would be the equivalent to writing a long paper and saving your work along the way. Once the work is in a state that you are satisfied with, you create a backup and push the document to a remote cloud service like Google drive, iCloud or Dropbox. In ther current terminal session (or to create a new terminal session right-click the desktop and select, `Open Terminal`), install Git 
+To create different application states we use a tool called **Git**. When we finish fixing a bug or creating a new application features, we use Git to create a snapshot of the current application state. Once created, the snapshot is saved to Github where we can easily view the different versions of our application. This would be the equivalent to writing a long paper and saving your work along the way. Once the work is in a state that you are satisfied with, you create a backup and push the document to a remote cloud service like Google drive, iCloud or Dropbox. In ther current terminal session (or to create a new terminal session right-click the desktop and select, `Open Terminal`) install Git. 
 
 ```
 $ sudo apt-get install git-all
 ```
-on your computer so we can access Github from the terminal.
+
+Now our computer can access Github from the terminal.
 
 #### Get a sample application
 Open a new terminal session, change to the base directory.
