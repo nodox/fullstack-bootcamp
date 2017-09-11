@@ -64,6 +64,13 @@ Anyone with an internet connection can now see your app when they visit your URL
 
 In the next chapter we are going to learn HTML and CSS to add more features to our simple application.
 
+
+Next application will be a 
+- chapter2: bucket list HTML/CSS 
+- chapter3: bucket list (TodoMVC examples)
+
+
+
 ***
 
 **Disclaimer: This book is a work-in-progress.**
