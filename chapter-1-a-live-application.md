@@ -26,18 +26,16 @@ $ sudo apt-get install git-all // might not be necessary
 Causing errors after git-all install
 (https://askubuntu.com/questions/771839/problem-installing-package-git-all)
 
-Type `Y` to any prompts to continue with installation. Now our computer can access Github from the terminal. Change to the base directory, a directory is terminal talk for folder, and clone our new application.
+Type `Y` to any prompts to continue with installation. Now our computer can access Github from the terminal. Change to the base directory, a directory is terminal talk for folder, clone our new application, and run the setup installation file.
 
 ```
-
-$ cd
-$ git clone https://github.com/nodox/fsbc-chapter1.git
-```
-
-This command says to move our current directory to the lowest level and clone and application. Using Finder you should see a folder titled `fsbc-chapter1` on the root level of you computer. We are going to extend this simple prebuilt application and later deploy it. Change directories to be at the root of your application folder and build the operating system image with docker. 
-
-```
+$ git clone https://github.com/nodox/fsbc-chapter1.git 
 $ cd fsbc-chapter1
+$ bash setup
+```
+Now that our application has been downloaded and installed. Start up the application.
+
+```
 $ node bin/www
 ```
 
