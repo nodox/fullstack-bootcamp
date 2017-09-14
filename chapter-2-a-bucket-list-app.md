@@ -6,7 +6,6 @@ Initially I thought slowly you introducing you to complex applications but let's
 Open your terminal application to clone a starter project from github.
 
 ```
-$ git clone <NNAME>
+$ git clone <NAME>
 ```
 
-DFD
