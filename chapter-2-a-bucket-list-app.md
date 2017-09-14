@@ -9,7 +9,7 @@ Open your terminal application to clone a starter project from github.
 $ git clone <NAME>
 ```
 
-Let's explore the directory structure. Notice how the starter template gives a minimal skeleton of all the commonly used folders in a web application. If there are files we think are needed than we can create them to customize the project to our needs.
+Let's explore the directory structure. Notice how the starter template gives a minimal skeleton of all the commonly used files and folders in a web application. If there are files we think are needed than we can create them to customize the project to our needs.
 
 ```
 Picture of the directory structure or a table
