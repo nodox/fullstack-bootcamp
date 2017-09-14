@@ -3,8 +3,3 @@ In this tutorial we are going to build a clone of the popular website Hackernews
 
 Initially I thought about slowly building out our project structure and make ineffient processes more efficient as we went on but writing a book is a long painstalking process (ain't nobody got time for more blood to be spilled) I'm going to throw you right into the deep end and explain things as we go.
 
-## HTML
-
-
-
-## CSS3
