@@ -31,11 +31,12 @@ Ok if you haven't done so already go visit the hackernews site (https://news.yco
 
 
 
->>> Active Thoughts
-- build a single hacker news link in html
-- add multiple links manually
-- switch to templating and loop through the collection
-- add a form so you can post the links from the site and not the source code
+>>> Active Thoughts Todo
+- [x] analyze hackernews and breakdown components
+- [] build a single hacker news link in html
+- [] add multiple links manually
+- [] switch to templating and loop through the collection
+- [] add a form so you can post the links from the site and not the source code
 
 
 
