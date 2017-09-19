@@ -42,6 +42,7 @@ Ok if you haven't done so already go visit the hackernews site (https://news.yco
 >>> Resources
 - [the chapter project] https://vue-hn.now.sh/top/1
 - [template language] ejs documentation
+    - https://scotch.io/tutorials/use-ejs-to-template-your-node-application
 - [washu as a guide] https://classes.engineering.wustl.edu/cse330/index.php/Module_1
 - [ror tutorial as guide] https://www.railstutorial.org/book/beginning#sec-the_hello_application
 
