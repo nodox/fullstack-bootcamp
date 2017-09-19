@@ -39,6 +39,12 @@ Ok if you haven't done so already go visit the hackernews site (https://news.yco
 - [] add a form so you can post the links from the site and not the source code
 
 
+>>> Resources
+- [the chapter project] https://vue-hn.now.sh/top/1
+- [template language] ejs documentation
+- [washu as a guide] https://classes.engineering.wustl.edu/cse330/index.php/Module_1
+- [ror tutorial as guide] https://www.railstutorial.org/book/beginning#sec-the_hello_application
+
 
 
 
