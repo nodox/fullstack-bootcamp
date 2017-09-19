@@ -22,7 +22,7 @@ Let's explore the directory structure. Notice how the starter template gives a m
 Picture of the directory structure or a table
 ```
 
-To start working on our application we need to update the index view of our application. Typically labeled `index.html` this file is commonly used as the first webpage you see when you visit a web site. Now we need to find the index file, luckily our project structure is built to be easy to work with by using simple logic. The index file can be found in there views folder as `fsbc-chapter1/views/index.html`, since the index file is a file we `view` then its located in the `views` folder to find the index. (The `fsbc-chapter1/views/index.html` notation is called a path. Paths are used to show where files are located. The final name in a path with an extensions ending like `.html` is a file. Every name followed by a `/` is a folder or directory on the scomputer.)
+To start working on our application we need to update the index view of our application. Typically labeled `index.html` this file is commonly used as the first webpage you see when you visit a web site. Now we need to find the index file, luckily our project structure is built to be easy to work with by using simple logic. The index file can be found in there views folder as `fsbc-chapter1/views/index.html`, since the index file is a file we `view` then its located in the `views` folder to find the index. (The `fsbc-chapter1/views/index.html` notation is called a path. Paths are used to show where files are located. The final name in a path with an extensions ending like `.html` is a file. Every name followed by a `/` is a folder or directory on the computer.)
 
 
 
