@@ -43,7 +43,7 @@ The purpose of hackernews is to provide links to interesting article over the we
   </body>
 </html>
 ```
-
+The next component we needed was a navigation bar. We are going to use the navbar to show our logo, as well as the top links and new links. 
 
 
 
