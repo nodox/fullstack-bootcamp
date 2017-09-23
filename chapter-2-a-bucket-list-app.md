@@ -43,7 +43,9 @@ The purpose of hackernews is to provide links to interesting article over the we
   </body>
 </html>
 ```
-The next component we needed was a navigation bar. We are going to use the navbar to show our logo, as well as the top links and new links. 
+The `a` is used by specifying the location you want the person to go to once they click on the link. In between the opening and closing `a` tags is where you specify what text we want the user to see. You can see that each link goes to a different site on the web but we are responsible for telling the user something about the link they are about to click. The next component we needed was a navigation bar. We are going to use the navbar to show our logo, as well as the top links and new links. 
+
+
 
 
 
