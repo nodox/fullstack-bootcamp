@@ -79,7 +79,7 @@ Save your changes in the file. If you go to the browser and refresh the page you
 
 ```
 
-Refresh t
+Save your file and refresh google chrome. You will now see two links sitting next to each other. Sweet! 
 
 
 >>> Active Thoughts Todo
