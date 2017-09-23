@@ -79,7 +79,7 @@ Save your changes in the file. If you go to the browser and refresh the page you
 
 ```
 
-Save your file and refresh google chrome. You will now see two links sitting next to each other. Sweet! 
+Save your file and refresh google chrome. You will now see two links sitting next to each other. Sweet! The navbar seems to have a list of links, could we have used a unordered list tag with list items? Yes! We could absolutely do that as well. The way you implement these concept is completely in your control. What you will notice is that some tags have their own default styles. The unordered list shows each item a couple pixels from the left with a bullet point for each item. The navbar links start exactly as the far left of the page and add each link directly next to each other left to right. If you wanted the same behavior for each tag then you would have to override the default styles using CSS (we all be using CSS to make our website beautiful).
 
 
 >>> Active Thoughts Todo
