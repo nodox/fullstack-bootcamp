@@ -103,6 +103,7 @@ Our command downloads and install `nodemon` from a website called `npm` that sto
 >>> Writing workflow
  - develop and write?
  - develop with commits, then write off commits?
+ - use commit messages and vim to write the book? Benefits is that the changes are directly highlighted so you have a better understanding of exactly what changes you introduced. (might be the best idea so that things stay in sync)
 
 >>> Future Thoughts
 - [] Heartbreaker / I'm quitting app
