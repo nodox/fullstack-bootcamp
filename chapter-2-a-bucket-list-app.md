@@ -107,6 +107,7 @@ Our command downloads and install `nodemon` from a website called `npm` that sto
     - https://scotch.io/tutorials/use-ejs-to-template-your-node-application
 - [washu as a guide] https://classes.engineering.wustl.edu/cse330/index.php/Module_1
 - [ror tutorial as guide] https://www.railstutorial.org/book/beginning#sec-the_hello_application
+- [the nerd ranch book for ios dev]
 
 
 
