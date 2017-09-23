@@ -93,10 +93,16 @@ Our command downloads and install `nodemon` from a website called `npm` that sto
 
 >>> Active Thoughts Todo
 - [x] analyze hackernews and breakdown components
-- [] build a single hacker news link in html
-- [] add multiple links manually
+- [x] build a single hacker news link in html
+- [x] add multiple links manually
+- [x] introduce nodemon dev tool
+- [] add users?
 - [] switch to templating and loop through the collection
 - [] add a form so you can post the links from the site and not the source code
+
+>>> Writing workflow
+ - develop and write?
+ - develop with commits, then write off commits?
 
 >>> Future Thoughts
 - [] Heartbreaker / I'm quitting app
