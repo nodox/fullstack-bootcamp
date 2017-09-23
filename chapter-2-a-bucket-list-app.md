@@ -89,6 +89,8 @@ $ sudo npm install -g nodemon
 
 Our command downloads and install `nodemon` from a website called `npm` that stores a bunch of developer made tools. The `-g` and options are called flags. Flags are used to specify how you want the results to be treated, almost every terminal command can accept a flag. In our case these flags specify that we want the nodemon package to be avaliable globally meaning that we can use nodemon any where in our computer which is helpful if we have multiple projects the require node servers. Now we can close out our server (if it's running) and run `nodemon bin/www` and anytime we save the file the server will automatically restart. Start nodemon, change a file save it and then refresh the browser. You can see that your didn't have to restart the server because `nodemon` will be listening for changes. You can keep nodemon running while you are coding features and then shut it off once you are done coding (which should be nevver because now that you know how to code the world is your playground).
 
+
+
 >>> Active Thoughts Todo
 - [x] analyze hackernews and breakdown components
 - [] build a single hacker news link in html
