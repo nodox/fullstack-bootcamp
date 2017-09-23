@@ -37,8 +37,9 @@ The purpose of hackernews is to provide links to interesting article over the we
   </head>
   <body>
     <p>Hello World!</p>
-    <a href="http://coolcosmos.ipac.caltech.edu/ask/200-Which-planet-spins-the-fastest">Jupiter is the fastest spinning planet.</a>
-    <a href="https://www.reddit.com/r/Animalsthatlovemagic/comments/70v4hj/abracatabrapoof_gone/?ref=share&ref_source=link">Cats are still evil</a>
+    <a href="https://google.com">Google!</a>
+    <a href="https://duckduckgo.com">DuckDuckGo doesn't track searches</a>
+    <a href="https://microsoft.com">Is Microsoft even relevant?</a>
   </body>
 </html>
 ```
