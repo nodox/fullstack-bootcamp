@@ -26,7 +26,7 @@ To start working on our application we need to update the index view of our appl
 
 Ok if you haven't done so already go visit the hackernews site (https://news.ycombinator.com/). We are going to build a much better version for this ugly website. I mean come on we are in 2017, and we're still building websites as with not beautiful colors and effects. The final product can be found at https://vue-hn.now.sh/top/1. Yes, when we are done we are going to have built something you can have pride in when showing your friends and family. To begin the building process let's take a moment to analyze the webpage and identify the key html tags of the website. As a software engineer you need view software not as a final product but rather as the sum of a bunch of smaller working components. On this site we see a long list or a table so we can assume we'll use `table` or `ul` (unordered list) tags. We also see a bunch of links so we will need to use `a` (anchor) tags to create links. In the top I see a navigation bar with link to different page on the site therefore we will need to use `nav` and `a` tags. These small components are responsible for most of the so we now have a good idea of how to start creating our hackernews clone. Software engineering is about thinking how software is created and used. When you get a job as a software engineer you will realize most of you're time will be spent thinking what is the best way to accomplish something and what will be the implications of my choices. All these thoughts will happen before you even write down in piece of code.
 
-The purpose of hackernews is to provide links to interesting article over the web. Our first task will be to add links to the page. As we mentioned earlier we are going to use and `a` to create a few links on our web page found in `views/index.html`.
+The purpose of hackernews is to provide links to interesting article over the web. Our first task will be to add a list of links to the page. As we mentioned earlier we are going to use a couple of HTML tags to create a few links in `views/index.html`.
 
 ```
 <!DOCTYPE html>
@@ -36,17 +36,50 @@ The purpose of hackernews is to provide links to interesting article over the we
     <title>Title of the document</title>
   </head>
   <body>
-    <p>Hello World!</p>
-    <a href="https://google.com">Google!</a>
-    <a href="https://duckduckgo.com">DuckDuckGo doesn't track searches</a>
-    <a href="https://microsoft.com">Is Microsoft even relevant?</a>
+    <nav>
+      <a href="">Top</a>
+      <a href="">New</a>
+    </nav>
+    <div>
+      <ul>
+        <li><a href="https://google.com">The first link is to Google!</a></li>
+        <li><a href="https://duckduckgo.com">Here is a second link: DuckDuckGo doesn't track searches</a></li>
+        <li><a href="https://microsoft.com">Link number 3: Is Microsoft even relevant?</a></li>
+        <li>This is not a link</li>
+      </ul>
+    </div>
   </body>
 </html>
+
+
 ```
 
 The `a` is used by specifying the location you want the person to go to once they click on the link. In between the opening and closing `a` tags is where you specify what text we want the user to see. You can see that each link goes to a different site on the web but we are responsible for telling the user something about the link they are about to click. The next component we needed was a navigation bar. We are going to use the navbar to show our logo, as well as the top links and new link however right now they will be links that lead to nowhere, we will create new pages for those links shortly. 
 
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <nav>
+      <a href="">Top</a>
+      <a href="">New</a>
+    </nav>
+    <div>
+      <ul>
+        <li><a href="https://google.com">The first link is to Google!</a></li>
+        <li><a href="https://duckduckgo.com">Here is a second link: DuckDuckGo doesn't track searches</a></li>
+        <li><a href="https://microsoft.com">Link number 3: Is Microsoft even relevant?</a></li>
+        <li>This is not a link</li>
+      </ul>
+    </div>
+  </body>
+</html>
 
+```
 
 
 
