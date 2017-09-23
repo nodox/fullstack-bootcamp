@@ -96,6 +96,7 @@ Our command downloads and install `nodemon` from a website called `npm` that sto
 - [x] build a single hacker news link in html
 - [x] add multiple links manually
 - [x] introduce nodemon dev tool
+- [] style our application using css from vue github
 - [] add users?
 - [] switch to templating and loop through the collection
 - [] add a form so you can post the links from the site and not the source code
