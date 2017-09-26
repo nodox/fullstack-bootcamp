@@ -113,10 +113,34 @@ We have the style sheets defined now we need to link them into our index file. L
   </head>
 ```
 
-With stylesheets we also need to remember that order matters. Cascading means that as the browser reads a stylesheet file from top to bottom it will apply the style rules in sequence. Styles found near the bottom of the file can override earlier styles if the sectors target the same element using the same style rules but with different values. Let's start adding some style to our page so it looks less weak. There is no way to tell apart the navbar from the user links so let's start here.
+With stylesheets we also need to remember that order matters. Cascading means that as the browser reads a stylesheet file from top to bottom it will apply the style rules in sequence. Styles found near the bottom of the file can override earlier styles if the sectors target the same element using the same style rules but with different values. Let's start adding some style to our page so it looks less weak. There is no way to tell apart the navbar from the user links so let's start here. [TODO: make sure the body already has those default styles from Vue website].
 
 ```
+nav {
+  background-color: #ff6600;
+  position: fixed;
+  z-index: 999;
+  height: 55px;
+  top: 0;
+  left: 0;
+  right: 0;
+}
 
+nav a {
+  color: rgba(255, 255, 255, .8);
+  line-height: 24px;
+  transition: color .15s ease;
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: 300;
+  letter-spacing: .075em;
+  margin-right: 1.8em;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #fff;
+}
 
 ```
 
