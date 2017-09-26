@@ -113,6 +113,8 @@ We have the style sheets defined now we need to link them into our index file. L
   </head>
 ```
 
+With stylesheets we also need to remember that order matters. Cascading means that as the browser reads a stylesheet file from top to bottom it will apply the style rules in sequence, and later styles can override earlier styles.
+
 
 >>> Active Thoughts Todo
 - [x] analyze hackernews and breakdown components
