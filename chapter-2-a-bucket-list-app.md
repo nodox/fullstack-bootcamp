@@ -100,7 +100,19 @@ a {
 
 To define the CSS style we need three components: the selector, the style block, and the style rules. The area before the curly brackets is where we define the selector. The selector above is targeting all the `a` tags on the the website. The curly brackets are used to define the style block. Within the style block we add all the style rules we need to achieve the desired style. To color all the links red we need to define the property responsible for the color of text, which happens to be `color` and then we have to give it the value we want, which we defined as red in the snippet above. Here we used the keyword red because CSS is preprogrammed to recognize certain keywords. However if we wanted to create a more custom color we would have to use a hex value such as `#123456` and it would apply the corresponding color to the page. To find hex codes you can open an image processing software and inspect the colors you add onto the canvas. There are also plenty of websites online that will help you generate the hex code of a color you define on a color wheel.
 
-To add a stylesheet onto our web page we need to create a stylesheet file with the extension ending `.css` and then link it within our index page. If we look in the `public/stylesheet/` directory we will find [TODO: update repo to have both reset.css and style.css] two stylesheets: `reset.css` and `style.css`. Take a peek at both of them. The reset file is responsible for removing all the default styles that are applied by our browser. The advantage of using a stylesheet reset is that we will make sure that our styles behave the same way in all the browsers (Safari, Firefox, and the true king, Chrome). The second style sheet is the stylesheet we are going to use to define all the custom rules for our site. As you can see there are are a few simple rules here responsible for adding a font to our web page.
+To add a stylesheet onto our web page we need to create a stylesheet file with the extension ending `.css` and then link it within our index page. If we look in the `public/stylesheet/` directory we will find [TODO: update repo to have both reset.css and style.css] two stylesheets: `reset.css` and `style.css`. Take a peek at both of them. The reset file is responsible for removing all the default styles that are applied by our browser. The advantage of using a stylesheet reset is that we will make sure that our styles behave the same way in all the browsers (Safari, Firefox, and the true king, Chrome). The second style sheet is the stylesheet we are going to use to define all the custom rules for our site. As you can see there are are a few simple rules here responsible for adding a font to our web page. 
+
+We have the style sheets defined now we need to link them into our index file. Let's add two link tags to the `head` section of our web page. 
+
+```
+  <head>
+    <meta charset="UTF-8">
+    <title>Title of the document</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/reset.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+  </head>
+```
+
 
 >>> Active Thoughts Todo
 - [x] analyze hackernews and breakdown components
