@@ -144,6 +144,7 @@ nav a:hover {
 
 ```
 
+When we refresh the browser we see an instant change. Our navbar has a distinctive color and height, its fixed to the top of the page, and the links are clearly highlighted to show they are clickable. Let's go through some of the styles rules that are most responsible for the dramatic updates. The first selector is responsible for targeting the nav element. Here we are able to give it a height, and a background color. To position the navbar we use the `position: fixed` rule to enforce that our navbar will follow us as we scroll down the page. When we add more elements the effect will be more pronounced. When we declare the position rule we then need to use the top, right, left, bottom, properties to position the navbar. Another thing to remember is that our selector is targeting all elements that are `nav`s therefore is you place another `nav` element somewhere on the page then you will see the same styles applied. Try it yourself, add another nav section below the links to see the styles applied. Don't forget to remove the test code once you see the changes. 
 
 >>> Active Thoughts Todo
 - [x] analyze hackernews and breakdown components
