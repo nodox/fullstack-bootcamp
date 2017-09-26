@@ -113,7 +113,7 @@ We have the style sheets defined now we need to link them into our index file. L
   </head>
 ```
 
-With stylesheets we also need to remember that order matters. Cascading means that as the browser reads a stylesheet file from top to bottom it will apply the style rules in sequence, and later styles can override earlier styles.
+With stylesheets we also need to remember that order matters. Cascading means that as the browser reads a stylesheet file from top to bottom it will apply the style rules in sequence. Styles found near the bottom of the file can override earlier styles if the sectors target the same element using the same style rules but with different values.
 
 
 >>> Active Thoughts Todo
@@ -121,7 +121,7 @@ With stylesheets we also need to remember that order matters. Cascading means th
 - [x] build a single hacker news link in html
 - [x] add multiple links manually
 - [x] introduce nodemon dev tool
-- [] explain what css is
+- [x] explain what css is
 - [] explain style rules on our application using css from vue github
 - [] explain how code is unruly so we use templates with hard coded data
 - [] use hackernews api
