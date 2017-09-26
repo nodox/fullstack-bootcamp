@@ -90,7 +90,15 @@ $ sudo npm install -g nodemon
 Our command downloads and install `nodemon` from a website called `npm` that stores a bunch of developer made tools. The `-g` and options are called flags. Flags are used to specify how you want the results to be treated, almost every terminal command can accept a flag. In our case these flags specify that we want the nodemon package to be avaliable globally meaning that we can use nodemon any where in our computer which is helpful if we have multiple projects the require node servers. Now we can close out our server (if it's running) and run `nodemon bin/www` and anytime we save the file the server will automatically restart. Let's try it out. Start nodemon, delete the list item that is not a link, save the file and then refresh the browser. The browser will no longer have the 4th list item. You can see that you didn't have to restart the server because `nodemon` will be listening for changes. You can keep nodemon running while you are coding features and then shut it off once you are done coding (which should be nevver because now that you know how to code the world is your playground).
 
 ### CSS
+We've added a little bit of structure to the page now we're going to style our web page with a Cascading Style Sheet or CSS. CSS is another simple programming language used to style web pages. In CSS you define styles rules the will change the presentational look of HTML elements. To define styles for an element or a collection of elements you need to use one of the many CSS selector syntax. For example, let's say we wants to make all the links on the page red.
 
+```
+a {
+  color: red;
+}
+```
+
+To define the CSS style we need three components: the selector, the style block, and the style rules. The area before the curly brackets is where we define the selector. The selector above is targeting all the `a` tags on the the website. The curly brackets are used to define the style block. Within the style block we add all the style rules we need to achieve the desired style. To color all the links red we need to define the property responsible for the color of text, which happens to be `color` and then we have to give it the value we want, which we defined as red in the snippet above. Here we used the keyword red because CSS is preprogrammed to recognize certain keywords. However if we wanted to create a more custom color we would have to use a hex value such as `#123456` and it would apply the corresponding color to the page. To find hex codes you can open an image processing software and inspect the colors you add onto the canvas. There are also plenty of websites online that will help you generate the hex code of a color you define on a color wheel.
 
 >>> Active Thoughts Todo
 - [x] analyze hackernews and breakdown components
