@@ -144,7 +144,58 @@ nav a:hover {
 
 ```
 
-When we refresh the browser we see an instant change. Our navbar has a distinctive color and height, its fixed to the top of the page, and the links are clearly highlighted to show they are clickable. Let's go through some of the styles rules that are most responsible for the dramatic updates. The first selector is responsible for targeting the nav element. Here we are able to give it a height, and a background color. To position the navbar we use the `position: fixed` rule to enforce that our navbar will follow us as we scroll down the page. When we add more elements the effect will be more pronounced. When we declare the position rule we then need to use the top, right, left, bottom, properties to position the navbar. Another thing to remember is that our selector is targeting all elements that are `nav`s therefore is you place another `nav` element somewhere on the page then you will see the same styles applied. Try it yourself, add another nav section below the links to see the styles applied. Don't forget to remove the test code once you see the changes. 
+When we refresh the browser we see an instant change. Our navbar has a distinctive color and height, its fixed to the top of the page, and the links are clearly highlighted to show they are clickable. Let's go through some of the styles rules that are most responsible for the dramatic updates. The first selector is responsible for targeting the nav element. Here we are able to give it a height, and a background color. To position the navbar we use the `position: fixed` rule to enforce that our navbar will follow us as we scroll down the page (or the navbar is fixed to the browser instead of the page). When we add more elements the effect will be more pronounced. When we declare the position rule we then need to use the top, right, left, bottom, properties to position the navbar. Another thing to remember is that our selector is targeting all elements that are `nav`s therefore is you place another `nav` element somewhere on the page then you will see the same styles applied. Try it yourself, add another nav section below the links to see the styles applied. Don't forget to remove the test code once you see the changes. 
+
+We have a decent start to the navbar but the links need to be centered in the navbar. They also need some space between the left edge of the browser. This where the `div` tag will be most useful. The `div` is a general purpose HTML tag. You can use it to create a navbars, sections, paragraphs or whatever you might need. You can use a `div` to be a visible element on the screen that people will interact with or you can use its as an invisible element to contain other elements within a boundary. Let's create a boundary for our navbar links within the index.html file.
+
+```
+<!-- views/index.html -->
+
+<nav>
+  <div class="inner-container">
+    <a href="#">Top</a>
+    <a href="#">New</a>
+  </div>
+</nav>
+
+
+```
+We added a div to the page but there was no immediate effect. The addition of this div allows us to style the inside of the navbar differently than the navbar as a whole unit. The markup can also be read in that way. We have a nav element that has a bunch of other elements. Within the nav element we have a container and some links. Naturally the word container means that the div (with class name 'inner-container') is nothing more than a distinguable separator from the links and the whole navbar unit. As you've probably guessed class names are another kind of selector. These class names with you unlimited freedom to apply styles in whatever manner you like. You can use classes with any number of style to create truly custom designs that are not tightly bound to actual elements. The class attriute can be applied to any html element. Now let's style our links to see the visual difference this div will create.
+
+```
+.inner-container {
+  max-width: 800px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 15px 5px;
+}
+
+@media (max-width: 860px) {
+  nav .inner-container {
+    padding: 15px 30px;
+  }
+}
+
+@media (max-width: 600px) {
+  nav .inner-container {
+    padding: 15px;
+  }
+
+  nav a {
+    margin-right: 1em;
+  }
+}
+
+```
+
+Refresh your browser. Our links are in the center of the navbar and have a decent amount of padding from the edge of the browser. Not only that but if you make the browser screen smaller you can see the links stay within the center of the navbar. The padding on the left also response to the width change by decreasing the padding to be an amount appropriate with the screen size of the browser. This means that if we wanted to view our webpage of a phone with a smaller screen than the style will adjust or respond to the width of the screen. This type of styling technique is called responsive design. If you design your website to be best viewed on mobile and then design it for the desktop than you are using a design technique called mobile-first development. 
+
+
+
+
+
+>>> Writing Objective
+[] write for this book for neil williams (NYC references + focus + language)
 
 >>> Active Thoughts Todo
 [x] analyze hackernews and breakdown components
@@ -160,6 +211,10 @@ When we refresh the browser we see an instant change. Our navbar has a distincti
 [] use hackernews api
 [] explain concept of API (talk about Login with FB)
 [] switch to templating and loop through the collection
+
+>>> Devflow 
+[] Add webpack so that its has hot reload? Maybe later for them to configure?
+
 
 >>> Writing workflow
  - develop and write?
